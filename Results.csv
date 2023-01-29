@@ -1,0 +1,1505 @@
+Person_Id,Person_Name,Covid_Status,Confirmed_Time
+1,Bentley Allison,Negative,2022-11-16T13:55:21
+2,Mccray Schmidt,Inconclusive,2022-11-18T07:51:39
+3,Hilda Henry,Not tested,1900-01-01T00:00:01
+4,Hoover Mathews,Not tested,1900-01-01T00:00:01
+5,Keri Medina,Inconclusive,2022-11-21T16:11:42
+6,Hayes Marshall,Not tested,1900-01-01T00:00:01
+7,Aguirre Lawson,Negative,2022-10-30T00:52:48
+8,Edwards Daniels,Inconclusive,2022-11-10T16:23:52
+9,Decker Warner,Positive,2022-11-12T00:18:11
+10,Lizzie Haney,Inconclusive,2022-11-06T00:17:33
+11,Barnes Conley,Negative,2022-11-13T10:07:41
+12,Rosanna Bryan,Inconclusive,2022-11-27T12:13:02
+13,Salazar Hicks,Positive,2022-11-17T00:52:52
+14,Wong Malone,Positive,2022-11-01T20:02:30
+15,Brittney Blankenship,Negative,2022-11-19T00:34:16
+16,Morgan Compton,Inconclusive,2022-11-18T04:19:41
+17,May Morse,Negative,2022-10-31T09:23:04
+18,Leon Merritt,Inconclusive,2022-11-22T16:25:48
+19,Kaye Sears,Positive,2022-11-22T07:00:53
+20,Martina Riddle,Negative,2022-11-22T04:10:47
+21,Willie Meyer,Inconclusive,2022-10-30T10:07:01
+22,Yvette Lawrence,Negative,2022-10-31T07:31:37
+23,Tillman Dominguez,Negative,2022-11-21T18:03:00
+24,Suarez Underwood,Inconclusive,2022-11-16T12:02:31
+25,Bartlett Fleming,Inconclusive,2022-11-21T13:30:36
+26,Velez Mcclure,Positive,2022-11-23T05:29:57
+27,Erica Beach,Not tested,1900-01-01T00:00:01
+28,Robbins Koch,Positive,2022-11-04T03:49:00
+29,Diaz Nieves,Inconclusive,2022-11-11T16:37:31
+30,Bessie Wells,Negative,2022-11-02T21:25:49
+31,Claudette Bradley,Negative,2022-11-20T15:16:11
+32,Farrell Sampson,Negative,2022-11-03T05:43:52
+33,Mae Guerra,Inconclusive,2022-11-16T18:50:50
+34,Mia Wong,Inconclusive,2022-10-31T19:30:32
+35,Bonita Fuentes,Negative,2022-11-14T08:44:56
+36,Josefina Mcmahon,Inconclusive,2022-11-26T23:23:17
+37,Mildred Mullins,Positive,2022-11-25T10:44:08
+38,Herminia Mccall,Inconclusive,2022-11-22T10:03:27
+39,Rosales Humphrey,Negative,2022-11-14T16:06:26
+40,Jenifer White,Positive,2022-11-14T05:38:27
+41,Selma Miranda,Negative,2022-10-30T04:00:26
+42,Warren Armstrong,Inconclusive,2022-11-02T20:52:07
+43,Owen Owens,Positive,2022-11-03T08:04:43
+44,Hebert Reed,Inconclusive,2022-10-31T05:45:29
+45,Burks Clements,Inconclusive,2022-11-26T08:36:49
+46,Meghan Beck,Not tested,1900-01-01T00:00:01
+47,Randall Willis,Positive,2022-11-06T05:01:30
+48,Cannon Jackson,Positive,2022-11-02T12:21:06
+49,Maxine Levine,Positive,2022-11-19T12:53:08
+50,Marion Odom,Inconclusive,2022-11-24T07:43:28
+51,Valdez Ross,Not tested,1900-01-01T00:00:01
+52,Margret Valencia,Negative,2022-11-17T08:32:07
+53,Soto Ferrell,Not tested,1900-01-01T00:00:01
+54,Pope Massey,Not tested,1900-01-01T00:00:01
+55,Sandy Rios,Negative,2022-11-17T00:56:54
+56,Barnett Rose,Inconclusive,2022-11-10T07:46:44
+57,Baker Riley,Negative,2022-11-06T05:43:10
+58,Hillary Pennington,Positive,2022-11-07T13:00:45
+59,Mollie Pena,Not tested,1900-01-01T00:00:01
+60,Aurora Mejia,Not tested,1900-01-01T00:00:01
+61,Roberson Cross,Not tested,1900-01-01T00:00:01
+62,Keller Warren,Inconclusive,2022-11-08T10:17:07
+63,Sykes Howe,Negative,2022-11-07T06:21:49
+64,Snow Leblanc,Inconclusive,2022-11-16T18:53:26
+65,Carolina Morton,Positive,2022-11-13T08:21:58
+66,Dena Finley,Positive,2022-11-24T13:14:00
+67,Sarah Chaney,Not tested,1900-01-01T00:00:01
+68,Irwin Stephenson,Positive,2022-11-07T17:20:51
+69,Marie Gibbs,Positive,2022-11-08T01:01:30
+70,Mason Vega,Positive,2022-11-16T15:40:41
+71,Latasha Ayala,Inconclusive,2022-11-18T11:38:03
+72,Norton Carpenter,Positive,2022-11-08T16:08:44
+73,Santos Strickland,Negative,2022-11-23T19:47:49
+74,Jewell Acosta,Not tested,1900-01-01T00:00:01
+75,Farley Perkins,Not tested,1900-01-01T00:00:01
+76,Amie Potts,Not tested,1900-01-01T00:00:01
+77,Imogene Wagner,Negative,2022-11-25T16:40:35
+78,Vincent Ortiz,Positive,2022-11-02T02:03:37
+79,Luella Sandoval,Negative,2022-11-08T18:32:05
+80,Greene Fletcher,Negative,2022-11-27T18:38:56
+81,Lynne Elliott,Inconclusive,2022-11-25T01:48:50
+82,Adriana Cantu,Negative,2022-11-27T02:57:52
+83,Combs Franklin,Not tested,1900-01-01T00:00:01
+84,Alyssa Solomon,Not tested,1900-01-01T00:00:01
+85,Goff Deleon,Positive,2022-11-14T07:50:46
+86,Susana Higgins,Not tested,1900-01-01T00:00:01
+87,Susanne Wilder,Not tested,1900-01-01T00:00:01
+88,Castaneda Petersen,Not tested,1900-01-01T00:00:01
+89,Polly Garrison,Negative,2022-11-24T10:58:54
+90,Shelley Strong,Inconclusive,2022-11-01T02:18:57
+91,Constance Santiago,Positive,2022-11-15T22:39:13
+92,Fleming Mcintosh,Positive,2022-11-02T09:37:36
+93,Deborah Bradford,Negative,2022-11-16T02:48:21
+94,Brigitte Charles,Not tested,1900-01-01T00:00:01
+95,Valeria Valentine,Inconclusive,2022-10-30T17:07:36
+96,Cleveland Harrell,Inconclusive,2022-11-26T13:01:14
+97,Jill Boyd,Inconclusive,2022-11-05T04:46:49
+98,Leona Maynard,Negative,2022-11-09T17:51:36
+99,Schultz Le,Positive,2022-11-06T07:17:17
+100,Lesley Rodriquez,Not tested,1900-01-01T00:00:01
+101,Mcmahon Norton,Negative,2022-11-25T15:23:57
+102,Norman Gill,Negative,2022-11-09T12:12:39
+103,Dina Olsen,Not tested,1900-01-01T00:00:01
+104,Carmela Santana,Not tested,1900-01-01T00:00:01
+105,Gregory Shaffer,Positive,2022-11-07T05:58:33
+106,Thelma Alvarez,Positive,2022-11-12T15:40:14
+107,Sadie Pate,Not tested,1900-01-01T00:00:01
+108,Mclaughlin Orr,Not tested,1900-01-01T00:00:01
+109,Anita Gay,Negative,2022-11-05T15:01:28
+110,Harris Mcconnell,Inconclusive,2022-11-21T04:08:34
+111,Hill Sexton,Positive,2022-10-31T21:41:05
+112,Charmaine Slater,Positive,2022-11-07T02:59:07
+113,Guerra Mann,Not tested,1900-01-01T00:00:01
+114,Duffy Abbott,Not tested,1900-01-01T00:00:01
+115,Ashley Dickson,Negative,2022-11-18T02:41:18
+116,Jerri Madden,Negative,2022-11-13T16:54:38
+117,Ethel Hudson,Negative,2022-11-19T08:49:53
+118,Hannah Moody,Not tested,1900-01-01T00:00:01
+119,Sasha Mcknight,Inconclusive,2022-11-16T19:46:59
+120,Jean Robles,Negative,2022-11-03T04:24:56
+121,Gina Gibson,Not tested,1900-01-01T00:00:01
+122,Celeste Welch,Positive,2022-11-03T16:40:29
+123,Clay Page,Not tested,1900-01-01T00:00:01
+124,Bernice Moreno,Not tested,1900-01-01T00:00:01
+125,Eleanor Greer,Negative,2022-11-27T08:08:26
+126,Vera Mcguire,Positive,2022-11-09T05:19:51
+127,Franks Garcia,Positive,2022-11-17T01:19:42
+128,Brooks Harvey,Positive,2022-11-08T10:35:58
+129,Perkins Ryan,Inconclusive,2022-11-09T06:48:29
+130,Tucker Good,Positive,2022-10-29T22:26:10
+131,Alexander Malone,Not tested,1900-01-01T00:00:01
+132,Aimee Russell,Positive,2022-11-03T21:45:20
+133,Collier Compton,Not tested,1900-01-01T00:00:01
+134,Lenora Mcdaniel,Not tested,1900-01-01T00:00:01
+135,Cotton Goff,Inconclusive,2022-10-29T17:19:52
+136,Johnston Swanson,Inconclusive,2022-11-12T01:54:35
+137,Mcgowan Puckett,Not tested,1900-01-01T00:00:01
+138,Pearlie Delacruz,Inconclusive,2022-11-08T14:21:54
+139,Effie Valenzuela,Inconclusive,2022-11-26T03:53:28
+140,Autumn Lara,Not tested,1900-01-01T00:00:01
+141,Melendez Albert,Inconclusive,2022-11-04T13:26:13
+142,Benita Meyers,Positive,2022-11-10T03:34:13
+143,Christian Alston,Positive,2022-11-05T02:22:05
+144,Lavonne Lamb,Negative,2022-11-03T10:29:23
+145,Katina Hardy,Negative,2022-11-18T02:24:26
+146,Lela Browning,Not tested,1900-01-01T00:00:01
+147,Caldwell Byers,Negative,2022-10-30T19:17:53
+148,Ward Stevens,Positive,2022-11-07T10:39:41
+149,Solomon Nieves,Negative,2022-11-11T11:44:16
+150,Karin Everett,Positive,2022-11-11T16:58:04
+151,Torres Gilmore,Negative,2022-11-20T07:05:07
+152,Pitts Shepherd,Positive,2022-11-05T09:52:34
+153,Earlene Clayton,Negative,2022-11-07T11:56:32
+154,Hallie Guerra,Inconclusive,2022-11-16T05:23:22
+155,Walter Clay,Positive,2022-11-02T07:52:54
+156,Garcia Rutledge,Positive,2022-11-17T09:14:12
+157,Mai Lancaster,Negative,2022-11-20T10:32:08
+158,Mercedes Gutierrez,Not tested,1900-01-01T00:00:01
+159,Mara Fowler,Positive,2022-11-01T17:55:19
+160,Byrd Sanchez,Positive,2022-11-15T11:20:37
+161,Knapp Humphrey,Inconclusive,2022-11-19T17:20:06
+162,Hickman Hogan,Negative,2022-11-09T15:58:54
+163,Singleton Avila,Inconclusive,2022-11-08T03:17:07
+164,Josephine Pope,Negative,2022-11-15T00:12:18
+165,Hamilton Parsons,Positive,2022-11-08T21:55:26
+166,Poole Sawyer,Not tested,1900-01-01T00:00:01
+167,Dixon Dawson,Not tested,1900-01-01T00:00:01
+168,Koch Horn,Inconclusive,2022-11-26T18:58:04
+169,Dennis Howard,Positive,2022-11-02T03:14:26
+170,Megan Irwin,Negative,2022-10-31T08:15:00
+171,Caroline Carey,Negative,2022-11-21T21:48:45
+172,Carolyn Hoover,Inconclusive,2022-11-21T03:56:43
+173,Cora Valencia,Not tested,1900-01-01T00:00:01
+174,Karen Pearson,Positive,2022-11-24T11:13:31
+175,Robyn Mcfarland,Inconclusive,2022-11-13T07:32:06
+176,Angelita Rios,Inconclusive,2022-11-20T23:24:13
+177,Bryant Wiggins,Negative,2022-10-29T14:46:53
+178,Spears Baker,Inconclusive,2022-11-10T16:16:26
+179,Burnett Finch,Not tested,1900-01-01T00:00:01
+180,Eliza Figueroa,Inconclusive,2022-11-03T15:34:41
+181,Shelly Randall,Inconclusive,2022-11-10T15:08:51
+182,Justine Copeland,Positive,2022-11-11T06:20:44
+183,Patel Cross,Inconclusive,2022-11-21T12:42:50
+184,Daugherty Holder,Negative,2022-11-19T22:23:18
+185,Lucile Warren,Inconclusive,2022-11-04T04:06:21
+186,Kathy Wade,Not tested,1900-01-01T00:00:01
+187,Hays Finley,Negative,2022-11-12T13:35:31
+188,Shawna Moore,Not tested,1900-01-01T00:00:01
+189,Nguyen Mccoy,Negative,2022-11-07T17:32:11
+190,Stella Ayala,Positive,2022-11-27T06:23:49
+191,Ina Ball,Positive,2022-11-09T18:47:37
+192,Kristen Williamson,Positive,2022-11-27T07:57:27
+193,Ester Donovan,Negative,2022-11-24T23:09:53
+194,Frazier Austin,Negative,2022-10-31T03:14:19
+195,Misty Schwartz,Negative,2022-11-15T07:16:28
+196,Hammond Lyons,Not tested,1900-01-01T00:00:01
+197,Marlene Bass,Positive,2022-11-05T18:10:36
+198,Emerson Robinson,Negative,2022-11-09T07:11:38
+199,Valentine Gallagher,Positive,2022-11-02T11:39:59
+200,Ophelia Franklin,Negative,2022-11-15T04:23:01
+201,Mayra Harrington,Inconclusive,2022-11-25T06:42:32
+202,Kayla Raymond,Inconclusive,2022-11-22T00:12:33
+203,Annie Mccullough,Inconclusive,2022-10-29T07:34:22
+204,Mallory Sanford,Positive,2022-11-15T14:43:07
+205,Chang French,Negative,2022-11-24T03:11:28
+206,Patrice Floyd,Positive,2022-11-23T23:37:05
+207,Flores Frank,Inconclusive,2022-11-08T02:56:41
+208,Tamika Dale,Not tested,1900-01-01T00:00:01
+209,Paulette Martinez,Inconclusive,2022-11-15T21:30:03
+210,Lee Munoz,Positive,2022-11-02T18:41:50
+211,Berry Sanders,Inconclusive,2022-11-04T14:30:35
+212,Franco Butler,Inconclusive,2022-11-05T15:36:18
+213,Travis Wilkerson,Negative,2022-11-09T15:54:16
+214,Laurie Mitchell,Positive,2022-11-27T18:41:22
+215,Sherman Rodriquez,Not tested,1900-01-01T00:00:01
+216,Santiago Norton,Inconclusive,2022-11-17T06:44:02
+217,Beard Gomez,Positive,2022-11-13T09:45:03
+218,Valenzuela Whitfield,Negative,2022-11-12T23:45:36
+219,Potts Edwards,Not tested,1900-01-01T00:00:01
+220,Beatriz Mercado,Inconclusive,2022-11-06T14:49:32
+221,Morales Fitzgerald,Inconclusive,2022-11-03T05:53:16
+222,Mccarty Merrill,Negative,2022-11-01T00:21:13
+223,Bridget Santos,Positive,2022-11-21T20:30:44
+224,Avila Reeves,Positive,2022-11-19T01:52:59
+225,Weiss Douglas,Inconclusive,2022-10-28T22:46:05
+226,Christian Woods,Negative,2022-10-31T20:25:17
+227,Bauer Sexton,Negative,2022-11-03T18:45:52
+228,Lupe Klein,Negative,2022-11-10T12:38:40
+229,Lee Leon,Inconclusive,2022-11-12T06:13:04
+230,Huff Carroll,Inconclusive,2022-11-15T09:59:24
+231,Julie Hoffman,Positive,2022-11-20T15:00:21
+232,Townsend Madden,Not tested,1900-01-01T00:00:01
+233,Saundra Hudson,Inconclusive,2022-11-04T20:49:50
+234,Hutchinson Knapp,Inconclusive,2022-11-24T22:32:09
+235,Lorrie Obrien,Negative,2022-10-30T16:27:50
+236,Melissa English,Not tested,1900-01-01T00:00:01
+237,Angie Allison,Inconclusive,2022-11-06T02:57:34
+238,Ware Salas,Inconclusive,2022-10-29T14:38:18
+239,Richardson Hester,Inconclusive,2022-11-11T20:54:52
+240,Hawkins Noel,Positive,2022-11-26T14:29:27
+241,Romero Baldwin,Inconclusive,2022-10-28T19:16:35
+242,Gomez Calhoun,Not tested,1900-01-01T00:00:01
+243,Tonya Chambers,Not tested,1900-01-01T00:00:01
+244,Elise Walker,Not tested,1900-01-01T00:00:01
+245,Patsy Bryant,Inconclusive,2022-11-20T12:51:48
+246,Carrillo Johnson,Positive,2022-11-14T02:56:38
+247,Gould Pugh,Not tested,1900-01-01T00:00:01
+248,Etta Battle,Positive,2022-11-16T08:14:37
+249,Kari Romero,Positive,2022-11-11T16:48:37
+250,Bright Merritt,Not tested,1900-01-01T00:00:01
+251,Garrett Miles,Inconclusive,2022-11-15T03:20:55
+252,Lesa Ortega,Inconclusive,2022-11-08T10:37:34
+253,Kaye Mays,Negative,2022-11-19T21:17:00
+254,Courtney Wolf,Negative,2022-11-26T08:49:15
+255,Maura Sosa,Inconclusive,2022-11-24T12:04:50
+256,Chelsea Albert,Negative,2022-11-20T19:02:59
+257,Joyce Pace,Inconclusive,2022-10-31T06:01:59
+258,Lina Manning,Negative,2022-11-22T06:57:57
+259,Fry Avery,Inconclusive,2022-11-27T04:49:30
+260,Rutledge Davenport,Inconclusive,2022-11-10T01:37:27
+261,Mcfarland Stanton,Negative,2022-11-20T08:18:52
+262,Robbins Beach,Not tested,1900-01-01T00:00:01
+263,Ayala Gross,Negative,2022-11-21T18:15:53
+264,Sherrie Nieves,Inconclusive,2022-11-03T05:03:54
+265,Duke Everett,Negative,2022-11-23T06:11:04
+266,Elvia Sampson,Positive,2022-10-31T08:40:58
+267,Banks Sutton,Positive,2022-11-11T02:37:03
+268,Mia Flynn,Positive,2022-11-19T16:21:43
+269,Natalie Robbins,Positive,2022-10-31T03:08:48
+270,Haley Schroeder,Inconclusive,2022-10-28T23:18:13
+271,Trujillo Mcmahon,Positive,2022-11-11T20:04:07
+272,Bishop Mcgowan,Inconclusive,2022-11-05T00:27:39
+273,Mildred Roberts,Negative,2022-10-29T10:06:39
+274,Herminia Head,Not tested,1900-01-01T00:00:01
+275,Michael Farrell,Positive,2022-11-20T01:45:10
+276,Marcella Powell,Positive,2022-11-10T00:25:34
+277,Jennings Herring,Not tested,1900-01-01T00:00:01
+278,Byers Garza,Inconclusive,2022-11-05T07:07:12
+279,Lacy Maxwell,Positive,2022-11-05T04:15:15
+280,Kirsten Clarke,Negative,2022-11-23T00:32:57
+281,Burks West,Not tested,1900-01-01T00:00:01
+282,Miranda Joyner,Positive,2022-10-29T03:01:23
+283,Valarie Talley,Not tested,1900-01-01T00:00:01
+284,Rosalyn Mcfadden,Positive,2022-11-09T02:52:37
+285,Maxine Kim,Inconclusive,2022-11-21T14:06:55
+286,Martha Odom,Inconclusive,2022-11-21T04:17:14
+287,Hess Bird,Not tested,1900-01-01T00:00:01
+288,Gamble Oneal,Inconclusive,2022-10-29T05:37:31
+289,Ramos Perez,Not tested,1900-01-01T00:00:01
+290,Luann Rowland,Negative,2022-10-29T13:16:50
+291,Carson Terry,Inconclusive,2022-11-01T14:10:42
+292,Downs Pennington,Not tested,1900-01-01T00:00:01
+293,Glenn Figueroa,Negative,2022-11-09T18:22:08
+294,Patton Daugherty,Positive,2022-11-02T20:10:39
+295,Tisha Holden,Inconclusive,2022-11-26T06:45:37
+296,Leola Michael,Inconclusive,2022-11-10T19:31:51
+297,Dena Haynes,Inconclusive,2022-11-14T21:27:15
+298,Sykes Martin,Inconclusive,2022-11-15T01:00:43
+299,Ann Finley,Positive,2022-11-11T14:45:16
+300,Griffith Moore,Positive,2022-10-29T03:28:21
+301,Emma Vega,Inconclusive,2022-11-03T00:54:01
+302,Hinton Grant,Not tested,1900-01-01T00:00:01
+303,Casey Banks,Negative,2022-11-10T09:05:28
+304,Amie Bowman,Positive,2022-11-24T14:56:05
+305,Kristy Mccray,Not tested,1900-01-01T00:00:01
+306,Kenya Donovan,Not tested,1900-01-01T00:00:01
+307,Langley Nichols,Negative,2022-11-07T01:33:54
+308,Virgie Schwartz,Inconclusive,2022-11-07T16:01:02
+309,Jerry Ferguson,Negative,2022-11-07T23:21:40
+310,Josefa Blevins,Not tested,1900-01-01T00:00:01
+311,Donovan Hanson,Not tested,1900-01-01T00:00:01
+312,Davenport Robinson,Negative,2022-11-08T21:19:57
+313,Jayne Barker,Positive,2022-11-20T03:48:03
+314,Vincent Gallagher,Positive,2022-11-15T12:44:00
+315,Foster Franklin,Not tested,1900-01-01T00:00:01
+316,Susanne Solomon,Negative,2022-11-06T02:44:52
+317,Shepherd Reid,Positive,2022-10-30T11:13:29
+318,Latoya Roach,Positive,2022-11-25T11:59:38
+319,Combs Leach,Positive,2022-11-15T21:26:22
+320,Morris Torres,Negative,2022-11-08T11:45:54
+321,Clarissa Garrison,Inconclusive,2022-11-02T06:41:17
+322,Lolita Bailey,Not tested,1900-01-01T00:00:01
+323,Delia Tyson,Not tested,1900-01-01T00:00:01
+324,Elisabeth Berger,Positive,2022-11-24T22:00:11
+325,Sweeney Nixon,Positive,2022-11-22T05:40:15
+326,Sargent Clark,Negative,2022-10-30T15:09:36
+327,Florine Preston,Inconclusive,2022-11-01T18:40:49
+328,Leona Harper,Not tested,1900-01-01T00:00:01
+329,Huffman Wilkerson,Not tested,1900-01-01T00:00:01
+330,Queen Montoya,Inconclusive,2022-11-06T22:32:46
+331,Ford Pollard,Negative,2022-11-12T07:56:05
+332,Knight Velazquez,Negative,2022-11-06T16:35:34
+333,Cunningham Lucas,Positive,2022-11-24T11:41:30
+334,Annmarie Gaines,Positive,2022-11-22T21:46:57
+335,Clara Horne,Negative,2022-11-09T02:28:22
+336,Lea Carney,Negative,2022-11-25T09:58:04
+337,Freda Hess,Not tested,1900-01-01T00:00:01
+338,Bradford Shaffer,Not tested,1900-01-01T00:00:01
+339,Jenna Carver,Positive,2022-10-31T22:03:11
+340,Daniels Pate,Negative,2022-10-30T23:48:45
+341,Coleen Dennis,Inconclusive,2022-10-31T06:24:57
+342,Millie Gilbert,Negative,2022-11-13T17:06:33
+343,Tracy Woods,Not tested,1900-01-01T00:00:01
+344,Charmaine Justice,Positive,2022-10-28T20:04:32
+345,Antonia Huff,Positive,2022-11-23T11:44:47
+346,Wilda Livingston,Inconclusive,2022-11-10T17:19:42
+347,Sawyer Bruce,Not tested,1900-01-01T00:00:01
+348,Maude Jacobs,Negative,2022-11-26T10:10:44
+349,Victoria Foster,Negative,2022-11-26T23:39:03
+350,Freeman Knapp,Inconclusive,2022-10-30T05:41:10
+351,Blanca English,Negative,2022-11-24T09:09:02
+352,Celeste Salas,Negative,2022-11-23T15:21:44
+353,Jody Henry,Inconclusive,2022-11-19T18:41:32
+354,Ramsey Mathews,Negative,2022-11-26T00:12:59
+355,Cook Snyder,Positive,2022-11-07T08:24:38
+356,Vazquez Moreno,Negative,2022-11-07T14:52:51
+357,Clay Lopez,Positive,2022-11-05T14:38:41
+358,Noel Lawson,Negative,2022-11-22T19:21:48
+359,Concetta Chambers,Not tested,1900-01-01T00:00:01
+360,Stephanie Mcguire,Inconclusive,2022-10-30T14:31:45
+361,Sabrina Hardin,Negative,2022-11-03T01:29:59
+362,Boone Johnson,Positive,2022-11-18T20:43:01
+363,Franks Barnes,Inconclusive,2022-11-23T15:18:30
+364,Brooks Burns,Not tested,1900-01-01T00:00:01
+365,Maggie Gentry,Negative,2022-11-07T01:03:59
+366,Cheri Farley,Negative,2022-11-27T05:01:23
+367,Henderson Matthews,Negative,2022-11-02T00:15:48
+368,Walton Gordon,Inconclusive,2022-11-01T17:13:41
+369,Curtis Lowe,Inconclusive,2022-11-19T23:08:23
+370,Leslie Maddox,Inconclusive,2022-11-22T12:56:35
+371,Finch Oliver,Negative,2022-11-14T20:28:31
+372,Lavonne Sosa,Inconclusive,2022-11-26T21:09:51
+373,Norma Callahan,Not tested,1900-01-01T00:00:01
+374,Salinas Mcbride,Inconclusive,2022-11-23T12:01:24
+375,Erna Cobb,Positive,2022-11-04T04:39:15
+376,Kelsey Wheeler,Positive,2022-11-14T17:48:39
+377,Aurelia Burke,Not tested,1900-01-01T00:00:01
+378,Wolfe Curtis,Negative,2022-11-14T13:21:05
+379,Frederick Barrera,Negative,2022-11-04T02:45:52
+380,Guerrero Beard,Positive,2022-11-15T05:37:42
+381,Ferguson Jarvis,Positive,2022-11-01T02:22:58
+382,Rae Weber,Positive,2022-11-01T19:21:44
+383,Janine Neal,Not tested,1900-01-01T00:00:01
+384,Ana Cote,Inconclusive,2022-11-19T09:47:51
+385,Paula Velez,Inconclusive,2022-11-16T11:05:09
+386,Hodges Spears,Inconclusive,2022-11-11T10:15:54
+387,Rachel Roberson,Not tested,1900-01-01T00:00:01
+388,Brandie Schroeder,Inconclusive,2022-11-08T22:07:53
+389,Velasquez Mcgowan,Positive,2022-11-03T00:36:11
+390,Garcia Ware,Not tested,1900-01-01T00:00:01
+391,Madeleine Berg,Inconclusive,2022-11-25T00:23:50
+392,Loraine Sanchez,Negative,2022-11-19T17:03:49
+393,Sosa Farrell,Not tested,1900-01-01T00:00:01
+394,Davis Humphrey,Positive,2022-10-31T03:06:56
+395,Lane Mcpherson,Negative,2022-11-03T07:51:49
+396,Lynda Mccormick,Positive,2022-11-04T14:10:40
+397,Francis Owens,Positive,2022-11-03T08:23:36
+398,Knapp Rivers,Negative,2022-11-22T00:15:50
+399,Kay Gardner,Not tested,1900-01-01T00:00:01
+400,Kristie Duke,Not tested,1900-01-01T00:00:01
+401,Carolyn Talley,Inconclusive,2022-11-04T03:20:36
+402,Bridgette Bean,Not tested,1900-01-01T00:00:01
+403,Karen Rosario,Positive,2022-11-24T00:51:57
+404,Tami Booth,Inconclusive,2022-11-20T21:45:23
+405,Angelita Morrow,Not tested,1900-01-01T00:00:01
+406,Tracey Oneal,Inconclusive,2022-11-25T12:33:40
+407,Boyer Nielsen,Not tested,1900-01-01T00:00:01
+408,Bowen Mcfarland,Positive,2022-11-21T02:52:16
+409,Oneal Ratliff,Not tested,1900-01-01T00:00:01
+410,Justine Wall,Not tested,1900-01-01T00:00:01
+411,Justice Pennington,Negative,2022-11-06T13:22:55
+412,Tyler Giles,Negative,2022-11-17T13:49:28
+413,Berta Knight,Not tested,1900-01-01T00:00:01
+414,Olsen Atkinson,Inconclusive,2022-11-18T19:01:26
+415,Peck Holden,Negative,2022-11-09T15:33:33
+416,Gallegos Aguilar,Inconclusive,2022-11-12T19:41:24
+417,Christensen Conner,Not tested,1900-01-01T00:00:01
+418,Shawna Ellison,Negative,2022-11-04T10:26:23
+419,Liza Sullivan,Inconclusive,2022-11-24T06:46:25
+420,Stella Moore,Not tested,1900-01-01T00:00:01
+421,George Campos,Positive,2022-10-31T01:29:34
+422,Whitney Berry,Inconclusive,2022-11-01T20:27:55
+423,Petra Grant,Not tested,1900-01-01T00:00:01
+424,Nita Crawford,Positive,2022-11-01T17:44:57
+425,Althea Anderson,Inconclusive,2022-11-06T15:02:06
+426,Monica Buckner,Inconclusive,2022-11-15T05:14:37
+427,Mcpherson Holman,Not tested,1900-01-01T00:00:01
+428,Jordan Hawkins,Not tested,1900-01-01T00:00:01
+429,Mandy Briggs,Inconclusive,2022-11-01T06:36:54
+430,White Dean,Positive,2022-11-13T08:24:52
+431,Shannon Hart,Not tested,1900-01-01T00:00:01
+432,Roach Parks,Negative,2022-11-24T15:40:06
+433,Dominguez Gallagher,Inconclusive,2022-11-22T05:15:34
+434,Dalton Colon,Positive,2022-11-13T17:33:05
+435,French Suarez,Negative,2022-11-20T17:47:11
+436,Desiree Sheppard,Negative,2022-11-22T23:21:15
+437,Blevins Frazier,Negative,2022-11-07T17:07:59
+438,Kaitlin Roach,Positive,2022-10-30T06:18:45
+439,Heidi Torres,Positive,2022-11-06T14:11:21
+440,Wall Mcdowell,Inconclusive,2022-11-16T18:38:22
+441,Judith Floyd,Not tested,1900-01-01T00:00:01
+442,Stephenson Pruitt,Inconclusive,2022-11-16T21:46:35
+443,Ada Frank,Negative,2022-11-05T19:19:01
+444,Winifred Sims,Inconclusive,2022-11-24T23:30:48
+445,Marva Cline,Negative,2022-11-25T08:57:34
+446,Savage Duran,Not tested,1900-01-01T00:00:01
+447,Griffin Thornton,Positive,2022-11-17T12:01:32
+448,Maria Serrano,Not tested,1900-01-01T00:00:01
+449,Floyd Mcclain,Positive,2022-11-05T11:51:42
+450,Bennett Guthrie,Not tested,1900-01-01T00:00:01
+451,Kellie Hutchinson,Inconclusive,2022-11-19T23:44:06
+452,Beard Whitfield,Inconclusive,2022-11-06T14:43:48
+453,Jordan Cochran,Negative,2022-10-28T21:38:53
+454,Moses Meadows,Not tested,1900-01-01T00:00:01
+455,Cash Richmond,Not tested,1900-01-01T00:00:01
+456,Davidson Keith,Inconclusive,2022-11-08T09:24:00
+457,Pacheco Pate,Positive,2022-11-13T04:18:37
+458,Avila Dennis,Inconclusive,2022-11-06T10:15:42
+459,Faye Mcconnell,Positive,2022-11-04T00:10:23
+460,Lorie Cummings,Positive,2022-11-09T14:11:19
+461,Carey Mann,Inconclusive,2022-11-16T01:59:55
+462,Simpson Lowery,Negative,2022-11-25T22:00:46
+463,Therese Hinton,Positive,2022-11-02T02:42:09
+464,Henry Parrish,Not tested,1900-01-01T00:00:01
+465,Roman Hurley,Not tested,1900-01-01T00:00:01
+466,Margie Hendrix,Not tested,1900-01-01T00:00:01
+467,Estrada Tyler,Inconclusive,2022-11-20T12:04:33
+468,Ware Paul,Not tested,1900-01-01T00:00:01
+469,Calderon Gibson,Negative,2022-11-07T23:52:49
+470,Frye Henry,Not tested,1900-01-01T00:00:01
+471,Howard Schneider,Inconclusive,2022-11-13T15:20:08
+472,Tanner Noel,Negative,2022-11-05T11:17:56
+473,Jacquelyn Marshall,Inconclusive,2022-11-12T13:25:56
+474,Mcclure Greer,Not tested,1900-01-01T00:00:01
+475,Carrillo Gregory,Positive,2022-11-02T20:33:45
+476,Hart Haney,Inconclusive,2022-11-19T03:12:40
+477,Shawn Graham,Inconclusive,2022-10-30T08:16:30
+478,Karina Barnett,Inconclusive,2022-11-26T02:49:44
+479,Adams Leonard,Not tested,1900-01-01T00:00:01
+480,Angela Burns,Inconclusive,2022-11-03T03:00:34
+481,Garrett Gentry,Inconclusive,2022-11-12T00:11:50
+482,Avery Morse,Inconclusive,2022-11-17T00:43:01
+483,Tillman Gordon,Negative,2022-11-20T01:00:35
+484,Suarez Puckett,Negative,2022-11-15T11:12:35
+485,Estelle Hall,Negative,2022-10-29T11:32:22
+486,Fry Mays,Positive,2022-11-06T19:27:20
+487,Christine Owen,Not tested,1900-01-01T00:00:01
+488,Petersen Sosa,Inconclusive,2022-11-09T15:30:20
+489,Amber Manning,Positive,2022-11-04T05:48:26
+490,Diaz Lamb,Inconclusive,2022-11-08T12:44:24
+491,Booth Stone,Negative,2022-11-21T00:51:06
+492,Martin Holt,Inconclusive,2022-11-03T14:56:37
+493,Yang York,Inconclusive,2022-11-08T13:53:01
+494,Rodriquez Guerrero,Negative,2022-11-15T16:58:33
+495,Catalina Herman,Negative,2022-11-15T05:02:03
+496,Latisha Jarvis,Negative,2022-10-30T06:21:28
+497,James Shields,Inconclusive,2022-11-12T03:48:16
+498,Freida Clayton,Positive,2022-10-29T11:23:51
+499,Briana Estrada,Not tested,1900-01-01T00:00:01
+500,Trina Patton,Not tested,1900-01-01T00:00:01
+501,Buchanan Fowler,Negative,2022-11-13T12:04:16
+502,Rena Craft,Inconclusive,2022-11-25T19:23:54
+503,Morton Stafford,Inconclusive,2022-11-03T21:34:44
+504,Curry Mendez,Inconclusive,2022-11-01T13:35:00
+505,Bonita Miranda,Negative,2022-11-11T04:27:56
+506,Flynn Avila,Positive,2022-11-26T22:32:41
+507,Kline Owens,Inconclusive,2022-11-25T16:04:37
+508,Head Summers,Positive,2022-11-26T12:57:09
+509,Mercado Houston,Inconclusive,2022-11-12T20:20:13
+510,Allen Clements,Positive,2022-11-16T08:44:34
+511,Whitfield Langley,Positive,2022-11-24T04:24:08
+512,Marilyn Carson,Positive,2022-11-12T11:36:48
+513,Sylvia Hopkins,Inconclusive,2022-11-03T08:19:48
+514,Beasley Levine,Not tested,1900-01-01T00:00:01
+515,Erickson Rich,Negative,2022-11-05T15:52:59
+516,Baker Donaldson,Inconclusive,2022-11-15T03:49:29
+517,Hollie Kirby,Positive,2022-11-27T15:31:23
+518,Brandy Mayo,Not tested,1900-01-01T00:00:01
+519,Heather Mcfarland,Positive,2022-11-25T07:19:15
+520,Beth Rose,Positive,2022-11-25T09:58:52
+521,Martha Yang,Negative,2022-11-20T05:56:39
+522,Abbott Vaughn,Negative,2022-11-01T10:24:32
+523,Chaney Giles,Positive,2022-11-02T20:03:41
+524,Maricela Lott,Inconclusive,2022-11-14T04:00:04
+525,Angelique Daugherty,Positive,2022-11-22T06:26:03
+526,Maritza Landry,Inconclusive,2022-11-20T16:20:54
+527,Mattie Hodges,Negative,2022-11-03T22:38:34
+528,Moss Jenkins,Not tested,1900-01-01T00:00:01
+529,Dora Todd,Inconclusive,2022-11-23T11:49:37
+530,Petty Martin,Not tested,1900-01-01T00:00:01
+531,Russo Finley,Inconclusive,2022-11-13T13:59:52
+532,Juliet Brock,Positive,2022-11-19T07:48:32
+533,Norton Nolan,Positive,2022-11-26T23:24:43
+534,Carolina Sellers,Positive,2022-11-03T12:44:33
+535,Klein Mooney,Negative,2022-11-15T08:10:19
+536,Young Ball,Negative,2022-10-30T16:31:35
+537,Juana Weiss,Negative,2022-10-29T00:39:11
+538,Davenport Donovan,Not tested,1900-01-01T00:00:01
+539,Serena Nichols,Positive,2022-10-31T07:31:56
+540,Kerr Bond,Positive,2022-11-03T04:02:28
+541,Carroll Crosby,Positive,2022-11-21T16:07:38
+542,Shepherd Rivas,Not tested,1900-01-01T00:00:01
+543,Doyle Dean,Inconclusive,2022-10-31T05:25:49
+544,Combs Robinson,Not tested,1900-01-01T00:00:01
+545,Goff Barker,Positive,2022-11-05T21:39:19
+546,Adele Sweeney,Not tested,1900-01-01T00:00:01
+547,Kasey Cantu,Inconclusive,2022-11-18T17:17:29
+548,Bass Cole,Not tested,1900-01-01T00:00:01
+549,Castaneda Dudley,Positive,2022-10-29T07:35:30
+550,Jannie Raymond,Negative,2022-11-02T19:21:42
+551,Samantha Brown,Inconclusive,2022-11-25T01:05:55
+552,Bertha Mcdowell,Inconclusive,2022-11-20T04:55:00
+553,Burgess Bailey,Not tested,1900-01-01T00:00:01
+554,Love Simpson,Inconclusive,2022-10-30T19:54:31
+555,Madge Berger,Negative,2022-11-01T14:14:17
+556,Gibbs Nixon,Positive,2022-11-20T10:12:20
+557,Schultz Watson,Not tested,1900-01-01T00:00:01
+558,Chase Harper,Not tested,1900-01-01T00:00:01
+559,Norman Boyd,Negative,2022-11-02T23:40:38
+560,Delia Mcclain,Inconclusive,2022-10-29T11:12:12
+561,England Wilkins,Positive,2022-11-03T23:50:58
+562,Dee Velazquez,Negative,2022-10-31T11:26:28
+563,Owens Spence,Not tested,1900-01-01T00:00:01
+564,Mclaughlin Ramirez,Positive,2022-11-06T07:57:52
+565,Burke Olsen,Not tested,1900-01-01T00:00:01
+566,Roseann Wise,Positive,2022-11-14T02:49:16
+567,Duran Hess,Not tested,1900-01-01T00:00:01
+568,Copeland Merrill,Negative,2022-11-11T09:12:45
+569,Duffy Pittman,Negative,2022-11-23T16:58:36
+570,Mcbride Brady,Positive,2022-11-04T20:44:51
+571,Rose Gilbert,Not tested,1900-01-01T00:00:01
+572,Isabel Bolton,Negative,2022-11-19T02:48:01
+573,Clara Witt,Negative,2022-10-29T01:04:36
+574,Rebekah Carter,Not tested,1900-01-01T00:00:01
+575,Melisa Espinoza,Positive,2022-11-01T11:09:05
+576,Adrian Hinton,Inconclusive,2022-11-16T05:48:29
+577,Millie Jacobs,Negative,2022-11-19T06:29:09
+578,Jenkins Burris,Inconclusive,2022-11-11T22:39:23
+579,Erin Knapp,Not tested,1900-01-01T00:00:01
+580,Blair Hendrix,Not tested,1900-01-01T00:00:01
+581,Kirkland English,Not tested,1900-01-01T00:00:01
+582,Glass Jordan,Positive,2022-11-12T20:56:22
+583,Jerri Sharpe,Not tested,1900-01-01T00:00:01
+584,Rhonda Boyle,Positive,2022-11-15T18:19:42
+585,Vance Spencer,Positive,2022-11-12T16:05:09
+586,Priscilla Cherry,Negative,2022-10-31T20:32:16
+587,Alexander Calhoun,Positive,2022-11-05T20:09:25
+588,Gina Lloyd,Positive,2022-11-10T01:17:46
+589,Mcclain Wood,Positive,2022-11-01T16:48:25
+590,Deidre Kidd,Inconclusive,2022-11-05T18:38:40
+591,Jones Hicks,Inconclusive,2022-11-10T12:05:34
+592,Audrey Malone,Negative,2022-11-21T17:44:33
+593,Riley Blankenship,Inconclusive,2022-11-01T13:03:00
+594,Pearson Mcdaniel,Positive,2022-11-27T08:30:43
+595,Estela Dunlap,Positive,2022-10-31T17:22:35
+596,Maryellen Gordon,Not tested,1900-01-01T00:00:01
+597,Melendez Long,Inconclusive,2022-11-04T03:40:20
+598,Williams Ortega,Positive,2022-11-19T22:33:15
+599,Sabrina Workman,Positive,2022-11-04T16:08:52
+600,Michael Peters,Inconclusive,2022-11-04T18:31:33
+601,Krystal Kane,Not tested,1900-01-01T00:00:01
+602,Kim Marquez,Inconclusive,2022-10-29T23:22:46
+603,Caldwell Manning,Positive,2022-11-09T21:01:38
+604,Charles Cobb,Inconclusive,2022-11-18T06:19:17
+605,Bianca Browning,Inconclusive,2022-11-23T18:48:53
+606,Wanda Burke,Negative,2022-11-17T12:13:34
+607,Tamara Noble,Positive,2022-11-12T02:49:54
+608,Hahn Curtis,Negative,2022-11-05T15:15:07
+609,Katina Guerrero,Negative,2022-11-25T09:48:10
+610,Duncan Miller,Positive,2022-11-06T10:16:09
+611,Beatrice Beard,Positive,2022-11-09T20:13:13
+612,Erna Jarvis,Positive,2022-11-02T09:50:06
+613,Brennan Rollins,Not tested,1900-01-01T00:00:01
+614,Inez Chapman,Positive,2022-11-06T06:15:55
+615,Chandra Cote,Inconclusive,2022-11-14T06:13:51
+616,Rae Hunt,Positive,2022-11-09T17:54:23
+617,Good Gonzales,Inconclusive,2022-11-23T06:27:09
+618,Robles Weeks,Positive,2022-11-14T18:00:23
+619,Mcdonald Mcgowan,Not tested,1900-01-01T00:00:01
+620,Paula Cash,Positive,2022-11-13T19:39:18
+621,Melanie Kirk,Negative,2022-11-19T08:49:31
+622,Andrea Farrell,Inconclusive,2022-11-25T13:03:00
+623,Shields Hogan,Not tested,1900-01-01T00:00:01
+624,Tammie Garza,Positive,2022-11-22T05:54:59
+625,English Blackwell,Inconclusive,2022-10-29T23:08:56
+626,Poole Parsons,Not tested,1900-01-01T00:00:01
+627,Casandra Salazar,Negative,2022-11-14T21:16:28
+628,Merle Guy,Positive,2022-11-08T20:11:52
+629,Louella Hopkins,Inconclusive,2022-11-18T04:33:35
+630,Francis Levine,Inconclusive,2022-11-03T17:10:38
+631,Cecilia Kelley,Negative,2022-11-23T00:00:51
+632,Theresa Ross,Positive,2022-10-31T04:54:06
+633,Kristie Kirby,Inconclusive,2022-11-18T14:21:40
+634,Carmella Perez,Not tested,1900-01-01T00:00:01
+635,Cora Cohen,Positive,2022-10-28T21:43:59
+636,Alisa Kramer,Positive,2022-11-04T22:12:58
+637,Ola Webster,Not tested,1900-01-01T00:00:01
+638,Kaufman Pennington,Positive,2022-11-06T13:37:32
+639,Gallegos Pena,Not tested,1900-01-01T00:00:01
+640,Buck Bates,Negative,2022-10-29T10:08:33
+641,Alice Copeland,Negative,2022-11-11T19:00:13
+642,Pate Riggs,Positive,2022-11-27T16:48:32
+643,Pittman Jenkins,Positive,2022-11-21T07:37:25
+644,Mccullough Ellison,Inconclusive,2022-11-05T16:07:38
+645,Nguyen Sullivan,Negative,2022-11-05T19:31:40
+646,Louise Hurst,Negative,2022-11-03T05:38:23
+647,Kimberly Bray,Negative,2022-11-04T09:30:08
+648,Bolton Sellers,Not tested,1900-01-01T00:00:01
+649,Betsy Ayala,Positive,2022-11-16T11:40:56
+650,Liza Woodward,Inconclusive,2022-11-02T12:10:58
+651,Becky Harris,Inconclusive,2022-11-12T14:31:02
+652,Frank Hubbard,Positive,2022-11-16T06:03:33
+653,Jodi Freeman,Positive,2022-11-21T09:24:09
+654,Colon Austin,Negative,2022-11-26T02:19:46
+655,Misty Buchanan,Inconclusive,2022-11-02T00:26:03
+656,Maribel Blevins,Negative,2022-10-31T16:39:28
+657,Lydia Dickerson,Not tested,1900-01-01T00:00:01
+658,Mccarthy Mckinney,Positive,2022-11-15T18:06:50
+659,Nichols Garrett,Inconclusive,2022-11-14T13:23:07
+660,Sheena Lynn,Negative,2022-11-06T16:36:59
+661,Letha Rocha,Negative,2022-11-02T04:01:56
+662,Leigh Faulkner,Not tested,1900-01-01T00:00:01
+663,Debora Deleon,Positive,2022-10-30T16:41:54
+664,Annie Erickson,Positive,2022-11-08T22:04:28
+665,Mitzi Roach,Positive,2022-11-22T01:02:08
+666,Lyons Lambert,Positive,2022-11-19T16:33:20
+667,Edna Buck,Not tested,1900-01-01T00:00:01
+668,Marshall Bailey,Positive,2022-11-13T12:21:50
+669,Gibson Lindsey,Positive,2022-11-18T12:40:07
+670,Navarro Pitts,Positive,2022-11-18T11:08:54
+671,Esther Skinner,Not tested,1900-01-01T00:00:01
+672,Bette Lindsay,Not tested,1900-01-01T00:00:01
+673,Johnnie Ochoa,Positive,2022-11-20T13:39:14
+674,Oneil Nguyen,Inconclusive,2022-11-06T12:51:00
+675,Benjamin Young,Positive,2022-11-11T08:49:40
+676,Franco Shepard,Negative,2022-10-30T06:01:49
+677,Smith Wilkins,Negative,2022-11-01T11:50:17
+678,Barker Webb,Not tested,1900-01-01T00:00:01
+679,Hooper Lucas,Negative,2022-11-05T02:13:22
+680,Cain Hutchinson,Not tested,1900-01-01T00:00:01
+681,Lilian Whitfield,Not tested,1900-01-01T00:00:01
+682,Charlene Alford,Inconclusive,2022-11-08T12:50:44
+683,Beard Carney,Positive,2022-11-03T07:57:20
+684,Bridget Morris,Negative,2022-11-20T07:25:45
+685,Leta Nelson,Positive,2022-10-31T03:04:15
+686,Christian Santos,Positive,2022-11-27T01:25:12
+687,Janna Burks,Positive,2022-11-26T05:03:45
+688,West Douglas,Inconclusive,2022-10-31T16:00:47
+689,Murphy Combs,Not tested,1900-01-01T00:00:01
+690,Hull Melendez,Inconclusive,2022-11-05T05:43:54
+691,Therese Richardson,Positive,2022-11-08T11:29:08
+692,Bradshaw Klein,Inconclusive,2022-11-21T17:05:57
+693,Richmond Mann,Not tested,1900-01-01T00:00:01
+694,Albert Price,Negative,2022-11-16T16:06:58
+695,Kidd Hammond,Not tested,1900-01-01T00:00:01
+696,Ashley Patterson,Not tested,1900-01-01T00:00:01
+697,Swanson Moody,Not tested,1900-01-01T00:00:01
+698,Barry Hendrix,Positive,2022-11-26T12:35:40
+699,Townsend Sherman,Not tested,1900-01-01T00:00:01
+700,Hattie Robles,Not tested,1900-01-01T00:00:01
+701,Weeks Kent,Positive,2022-11-25T12:47:14
+702,Schwartz Boyle,Negative,2022-11-14T19:34:37
+703,Jeannie Spencer,Inconclusive,2022-11-13T14:17:29
+704,Shawn Baldwin,Not tested,1900-01-01T00:00:01
+705,Aguirre Calhoun,Not tested,1900-01-01T00:00:01
+706,Edwards Chen,Positive,2022-11-14T20:41:21
+707,Carole James,Not tested,1900-01-01T00:00:01
+708,Raymond Walker,Inconclusive,2022-11-07T03:54:34
+709,Lizzie Bridges,Inconclusive,2022-11-04T17:59:23
+710,Mcclure Leonard,Not tested,1900-01-01T00:00:01
+711,Aisha Battle,Not tested,1900-01-01T00:00:01
+712,Bailey Dalton,Inconclusive,2022-11-15T02:25:42
+713,Foley Navarro,Not tested,1900-01-01T00:00:01
+714,Billie Miles,Inconclusive,2022-11-08T07:25:58
+715,Matthews Sargent,Not tested,1900-01-01T00:00:01
+716,Cantu Owen,Negative,2022-11-18T00:34:49
+717,Hood Lara,Inconclusive,2022-11-23T13:41:13
+718,Joyce Callahan,Inconclusive,2022-11-25T22:53:13
+719,Summers Meyers,Inconclusive,2022-11-22T13:58:40
+720,Salas Lamb,Positive,2022-10-31T06:53:29
+721,Bartlett Hardy,Inconclusive,2022-11-16T00:55:45
+722,Rutledge Stanton,Not tested,1900-01-01T00:00:01
+723,Geneva York,Negative,2022-10-29T21:37:43
+724,Freida Koch,Negative,2022-10-30T08:53:45
+725,Randolph Melton,Negative,2022-11-03T12:02:32
+726,Brewer Gilmore,Inconclusive,2022-10-31T22:14:00
+727,Jessie Chapman,Negative,2022-11-26T23:11:18
+728,Evans Joseph,Positive,2022-11-12T12:45:13
+729,Mae Hunt,Inconclusive,2022-11-26T08:06:38
+730,Bishop Roberson,Positive,2022-11-12T21:19:16
+731,Wood Ray,Not tested,1900-01-01T00:00:01
+732,Montoya Calderon,Not tested,1900-01-01T00:00:01
+733,Ericka Kirk,Negative,2022-11-06T05:11:59
+734,Owen Stafford,Not tested,1900-01-01T00:00:01
+735,Staci Gilliam,Negative,2022-11-14T23:23:12
+736,Hebert Dyer,Positive,2022-11-06T11:23:29
+737,Dorsey Newton,Negative,2022-11-26T04:54:10
+738,Miranda Armstrong,Inconclusive,2022-10-30T10:05:43
+739,Wagner Owens,Not tested,1900-01-01T00:00:01
+740,Webb Maxwell,Positive,2022-11-19T23:50:07
+741,Randall Reed,Positive,2022-10-31T04:32:37
+742,Marcella Booker,Positive,2022-11-02T16:40:00
+743,Blake Hamilton,Not tested,1900-01-01T00:00:01
+744,Leah Ramos,Positive,2022-11-07T08:20:16
+745,Gay Hopkins,Negative,2022-10-31T11:00:34
+746,Lacy Bean,Inconclusive,2022-10-29T00:47:33
+747,Yolanda Stewart,Positive,2022-11-03T01:15:43
+748,Camacho Morrow,Negative,2022-11-26T03:58:15
+749,Briggs Carey,Positive,2022-11-06T12:10:50
+750,Sutton Valencia,Not tested,1900-01-01T00:00:01
+751,Baker Mcleod,Negative,2022-11-15T02:25:38
+752,Beth Massey,Not tested,1900-01-01T00:00:01
+753,Stokes Barlow,Not tested,1900-01-01T00:00:01
+754,Maryann Webster,Not tested,1900-01-01T00:00:01
+755,Georgia Rowe,Positive,2022-10-31T17:53:39
+756,Sandy Finch,Not tested,1900-01-01T00:00:01
+757,Angelique Ramsey,Positive,2022-11-09T08:38:15
+758,Shaffer Bates,Not tested,1900-01-01T00:00:01
+759,Sykes Caldwell,Not tested,1900-01-01T00:00:01
+760,Hopper Monroe,Positive,2022-11-25T05:58:53
+761,Johnson Gray,Positive,2022-11-26T03:15:16
+762,Black Burgess,Not tested,1900-01-01T00:00:01
+763,Mavis Todd,Inconclusive,2022-11-15T21:03:18
+764,Mason Morton,Negative,2022-11-26T03:54:46
+765,Shannon Finley,Positive,2022-10-29T16:46:45
+766,Diann Glenn,Not tested,1900-01-01T00:00:01
+767,Holder Fitzpatrick,Negative,2022-10-29T21:16:12
+768,Dena Campos,Positive,2022-11-24T19:54:20
+769,Tania Johns,Positive,2022-11-15T03:13:10
+770,Langley Mooney,Negative,2022-11-18T10:03:34
+771,Neal Roman,Negative,2022-10-30T20:12:57
+772,Juliette Ball,Positive,2022-11-04T13:20:11
+773,Prince Harris,Inconclusive,2022-11-15T13:56:44
+774,Latasha Buckner,Positive,2022-11-11T02:18:10
+775,Gardner Townsend,Not tested,1900-01-01T00:00:01
+776,Hardin Schwartz,Inconclusive,2022-11-23T19:14:50
+777,Greene Rivas,Not tested,1900-01-01T00:00:01
+778,Kristy Dickerson,Inconclusive,2022-11-05T06:55:55
+779,Cox Watts,Inconclusive,2022-10-29T13:24:45
+780,Angelica Sweeney,Not tested,1900-01-01T00:00:01
+781,Simon Gallagher,Not tested,1900-01-01T00:00:01
+782,Carly Tucker,Negative,2022-11-22T01:51:17
+783,Greer Harrington,Negative,2022-11-16T03:57:54
+784,Haynes Cooke,Inconclusive,2022-11-26T13:40:01
+785,Bertie Alexander,Not tested,1900-01-01T00:00:01
+786,Jayne Camacho,Negative,2022-11-14T05:54:40
+787,Alyssa Castillo,Not tested,1900-01-01T00:00:01
+788,Stacey Trujillo,Inconclusive,2022-11-01T15:05:07
+789,Samantha Vinson,Not tested,1900-01-01T00:00:01
+790,Bertha Wilkinson,Negative,2022-11-26T23:30:40
+791,Elinor Shelton,Inconclusive,2022-11-07T12:54:45
+792,Reyes Bradford,Positive,2022-11-01T04:56:59
+793,Cunningham Nixon,Inconclusive,2022-11-23T21:50:56
+794,Erma Preston,Inconclusive,2022-11-05T03:42:30
+795,Fields Christensen,Inconclusive,2022-11-07T19:27:48
+796,Carpenter Holloway,Positive,2022-11-23T10:30:16
+797,Deborah Young,Not tested,1900-01-01T00:00:01
+798,Katy Montoya,Positive,2022-11-18T15:10:28
+799,Barber Wilkins,Positive,2022-11-13T06:03:25
+800,Nelda Webb,Not tested,1900-01-01T00:00:01
+801,Gregory Lucas,Not tested,1900-01-01T00:00:01
+802,Leanne Bowen,Not tested,1900-01-01T00:00:01
+803,Stephens Chase,Not tested,1900-01-01T00:00:01
+804,Frankie Ramirez,Positive,2022-11-20T13:08:48
+805,Concepcion Benton,Inconclusive,2022-11-21T00:16:41
+806,Tara Roth,Not tested,1900-01-01T00:00:01
+807,Leach Fitzgerald,Negative,2022-11-27T05:06:23
+808,Harriet Green,Inconclusive,2022-10-31T07:38:59
+809,Shelby Drake,Positive,2022-10-31T06:58:13
+810,Faith Pittman,Inconclusive,2022-11-22T16:46:06
+811,Jenny Walter,Not tested,1900-01-01T00:00:01
+812,Ashley Mayer,Positive,2022-11-05T10:01:39
+813,Anna Witt,Inconclusive,2022-11-19T22:23:23
+814,Lea Richard,Negative,2022-11-02T18:22:43
+815,Carter Hood,Negative,2022-11-01T18:12:16
+816,Cristina Curry,Not tested,1900-01-01T00:00:01
+817,Letitia Coffey,Negative,2022-11-09T12:18:47
+818,Anita Quinn,Positive,2022-11-10T07:11:27
+819,Mccoy Burris,Positive,2022-11-05T15:44:54
+820,Lindsey Knapp,Not tested,1900-01-01T00:00:01
+821,Jacqueline Small,Positive,2022-11-24T00:44:11
+822,Christie Porter,Not tested,1900-01-01T00:00:01
+823,Wilda Paul,Negative,2022-11-12T14:48:37
+824,Mays Holmes,Negative,2022-11-23T22:08:42
+825,Rhonda Hester,Not tested,1900-01-01T00:00:01
+826,Victoria Walton,Positive,2022-11-14T17:08:26
+827,Priscilla Cherry,Not tested,1900-01-01T00:00:01
+828,Jean Morgan,Inconclusive,2022-11-02T02:02:07
+829,Shelton Greer,Negative,2022-11-14T08:10:36
+830,Cecile Chen,Inconclusive,2022-11-17T09:22:13
+831,Curtis Garcia,Inconclusive,2022-11-07T15:47:44
+832,Shirley Bryant,Negative,2022-10-29T06:10:59
+833,Jody Ryan,Positive,2022-11-14T09:39:54
+834,Witt Padilla,Positive,2022-11-16T20:14:10
+835,Oconnor Rodgers,Negative,2022-11-24T20:32:24
+836,Eleanor Bennett,Not tested,1900-01-01T00:00:01
+837,Salinas Farley,Not tested,1900-01-01T00:00:01
+838,May Matthews,Negative,2022-11-14T10:45:28
+839,Estela Miles,Inconclusive,2022-11-01T22:45:35
+840,Franklin Maddox,Not tested,1900-01-01T00:00:01
+841,Sellers Sargent,Not tested,1900-01-01T00:00:01
+842,Evangeline Wiley,Inconclusive,2022-11-17T13:52:43
+843,Aimee Meyer,Positive,2022-10-29T17:12:42
+844,Fox Snow,Positive,2022-10-30T15:34:52
+845,Watson Pace,Positive,2022-11-18T09:05:03
+846,Terry Winters,Negative,2022-11-14T14:49:32
+847,Kristin Avery,Positive,2022-11-23T14:33:58
+848,Clarice Wheeler,Positive,2022-11-26T04:00:44
+849,Candace Hampton,Positive,2022-11-20T17:56:40
+850,Terry York,Not tested,1900-01-01T00:00:01
+851,Houston Miller,Positive,2022-11-09T07:22:53
+852,Jessica Collins,Not tested,1900-01-01T00:00:01
+853,Velasquez Odonnell,Inconclusive,2022-11-04T06:06:54
+854,Butler Wells,Not tested,1900-01-01T00:00:01
+855,Powell Bradley,Negative,2022-11-14T23:05:43
+856,Bradley Howell,Positive,2022-11-05T17:51:14
+857,Davis Singleton,Negative,2022-10-29T00:24:26
+858,Barton Velez,Positive,2022-11-21T10:18:16
+859,Karin Estrada,Positive,2022-11-05T11:00:28
+860,Amy Fuentes,Inconclusive,2022-11-04T20:44:58
+861,Deirdre Cervantes,Negative,2022-11-18T00:14:03
+862,Earlene Becker,Inconclusive,2022-11-19T17:56:11
+863,Ella Hatfield,Not tested,1900-01-01T00:00:01
+864,Wallace Kennedy,Not tested,1900-01-01T00:00:01
+865,Monique Farrell,Not tested,1900-01-01T00:00:01
+866,Paula Gilliam,Not tested,1900-01-01T00:00:01
+867,Mara Powell,Positive,2022-11-25T11:28:56
+868,Kendra Moses,Inconclusive,2022-11-18T23:09:55
+869,Bush Duffy,Inconclusive,2022-10-31T20:44:49
+870,Eula Rivers,Inconclusive,2022-11-15T08:24:30
+871,Janice Booker,Inconclusive,2022-10-31T03:58:53
+872,Liz Boone,Positive,2022-10-31T02:16:51
+873,Kathie Beck,Positive,2022-11-06T13:55:38
+874,Workman Ashley,Positive,2022-11-23T14:14:58
+875,Park Jackson,Not tested,1900-01-01T00:00:01
+876,Santana Shannon,Negative,2022-10-28T20:39:01
+877,Medina Morrow,Inconclusive,2022-11-06T13:06:48
+878,Verna Love,Positive,2022-10-31T12:09:10
+879,Kelley Hunter,Inconclusive,2022-11-21T08:01:47
+880,Caroline Massey,Not tested,1900-01-01T00:00:01
+881,Lessie Brewer,Not tested,1900-01-01T00:00:01
+882,Bridgette Webster,Positive,2022-11-13T07:01:33
+883,Ruthie Harding,Negative,2022-11-26T20:43:34
+884,Ola Pena,Negative,2022-11-03T08:01:05
+885,Atkinson Atkinson,Negative,2022-11-08T14:08:55
+886,Ila Durham,Inconclusive,2022-11-01T12:45:18
+887,Silva Jenkins,Positive,2022-11-18T06:13:20
+888,Justine Ellison,Not tested,1900-01-01T00:00:01
+889,Mann Finley,Inconclusive,2022-11-17T14:57:17
+890,Cleo Glenn,Positive,2022-11-08T06:17:51
+891,Mcpherson Schultz,Positive,2022-11-24T14:14:25
+892,Massey Nolan,Negative,2022-11-04T05:24:37
+893,Morrison Montgomery,Negative,2022-10-30T19:26:20
+894,Alisha Banks,Not tested,1900-01-01T00:00:01
+895,Frazier Zamora,Not tested,1900-01-01T00:00:01
+896,Conway Harrison,Positive,2022-11-13T12:17:53
+897,Avis Buckner,Negative,2022-10-30T03:57:59
+898,Ofelia Townsend,Not tested,1900-01-01T00:00:01
+899,Kristen Barry,Negative,2022-11-09T20:47:13
+900,Nita Wagner,Inconclusive,2022-11-27T02:37:31
+901,Mcneil Lyons,Negative,2022-11-24T10:58:44
+902,Francesca Rush,Positive,2022-11-04T23:22:50
+903,Ferrell Arnold,Positive,2022-11-26T19:52:47
+904,Marlene Lynn,Inconclusive,2022-11-18T04:07:16
+905,Simmons Fry,Not tested,1900-01-01T00:00:01
+906,Meadows Kaufman,Not tested,1900-01-01T00:00:01
+907,Middleton Petty,Negative,2022-11-15T13:48:15
+908,Pena Solomon,Inconclusive,2022-10-29T08:09:52
+909,Helga Roach,Positive,2022-11-21T13:01:36
+910,Caitlin Guzman,Negative,2022-11-20T03:26:47
+911,Kaitlin Petersen,Positive,2022-11-16T14:52:55
+912,Joyce Bowers,Not tested,1900-01-01T00:00:01
+913,Mallory Vinson,Not tested,1900-01-01T00:00:01
+914,Stephenson Larson,Inconclusive,2022-11-02T22:16:41
+915,Cantrell Wilkinson,Inconclusive,2022-11-02T22:14:49
+916,Dickson Shelton,Positive,2022-11-15T22:59:54
+917,Lee Sims,Inconclusive,2022-10-28T20:10:40
+918,Anastasia Preston,Positive,2022-11-20T05:22:38
+919,Walters Duran,Negative,2022-11-15T06:53:27
+920,Howell Harper,Positive,2022-11-09T03:27:43
+921,Jeanette Cruz,Negative,2022-11-05T01:37:13
+922,Gilda Montoya,Negative,2022-10-31T00:15:06
+923,Cain Pollard,Positive,2022-10-30T02:12:02
+924,Anderson Kerr,Inconclusive,2022-11-25T23:03:00
+925,Marsha Davis,Inconclusive,2022-11-10T01:39:28
+926,Miriam Gomez,Positive,2022-11-07T06:23:38
+927,Elma Moran,Not tested,1900-01-01T00:00:01
+928,Hewitt Lynch,Not tested,1900-01-01T00:00:01
+929,Davidson Cardenas,Negative,2022-10-31T20:10:07
+930,Pacheco Green,Inconclusive,2022-10-31T16:59:08
+931,Ernestine Carver,Negative,2022-10-29T21:42:47
+932,Rollins Pittman,Positive,2022-11-05T10:23:50
+933,Riggs Combs,Negative,2022-11-23T17:50:03
+934,Lorna Baird,Positive,2022-11-04T16:26:34
+935,Solis Pickett,Inconclusive,2022-11-14T01:41:03
+936,Swanson Wyatt,Negative,2022-11-17T06:10:41
+937,Cornelia Abbott,Positive,2022-10-31T19:23:07
+938,Henry Price,Inconclusive,2022-10-29T09:15:58
+939,Weeks Quinn,Inconclusive,2022-11-08T02:50:38
+940,King Saunders,Negative,2022-11-02T01:11:47
+941,Day Moody,Inconclusive,2022-10-29T04:56:47
+942,Deanna Vang,Positive,2022-11-13T17:40:16
+943,Macias Ingram,Not tested,1900-01-01T00:00:01
+944,Decker Gibson,Inconclusive,2022-11-18T15:43:34
+945,Ashley Turner,Positive,2022-11-15T05:26:39
+946,Gomez Hays,Inconclusive,2022-11-03T15:27:46
+947,Beverly Stokes,Not tested,1900-01-01T00:00:01
+948,Carrillo Fischer,Not tested,1900-01-01T00:00:01
+949,Burton Bradshaw,Negative,2022-11-13T08:03:15
+950,Gould Garcia,Positive,2022-10-29T11:37:23
+951,Martinez Forbes,Negative,2022-11-06T01:47:50
+952,Karina Leonard,Not tested,1900-01-01T00:00:01
+953,Kathleen Rice,Positive,2022-11-11T03:38:46
+954,Ollie Farley,Negative,2022-10-31T23:05:03
+955,Tillman Merritt,Inconclusive,2022-10-29T17:05:53
+956,Chris Long,Inconclusive,2022-10-31T20:43:12
+957,Joni Mays,Negative,2022-11-07T10:12:22
+958,Morgan Wiley,Not tested,1900-01-01T00:00:01
+959,Alissa Vaughan,Negative,2022-11-22T08:53:17
+960,Wynn Marquez,Not tested,1900-01-01T00:00:01
+961,Kaye Manning,Positive,2022-10-29T08:11:47
+962,Ayala Dorsey,Negative,2022-11-09T14:03:00
+963,Britt Stone,Positive,2022-11-02T03:55:17
+964,Spencer Noble,Inconclusive,2022-11-24T21:29:56
+965,Benson William,Negative,2022-11-03T17:49:34
+966,Levy Hendricks,Not tested,1900-01-01T00:00:01
+967,Austin Herman,Negative,2022-11-11T08:29:40
+968,Carrie Salinas,Positive,2022-11-14T06:04:13
+969,Dillon Rosa,Inconclusive,2022-11-16T02:12:04
+970,Wood Singleton,Negative,2022-11-25T03:41:00
+971,Penelope Dejesus,Not tested,1900-01-01T00:00:01
+972,Lindsay Rhodes,Positive,2022-11-01T06:42:49
+973,Mamie Hunt,Inconclusive,2022-11-27T06:19:06
+974,Claudette Harmon,Positive,2022-11-13T15:25:11
+975,Pansy Terrell,Negative,2022-10-29T18:56:31
+976,Mae Calderon,Positive,2022-11-26T16:32:52
+977,Olga Hatfield,Negative,2022-11-15T11:52:50
+978,Melinda Farrell,Negative,2022-11-05T13:25:19
+979,Morton Kemp,Positive,2022-11-24T04:03:30
+980,Jackson Newton,Positive,2022-10-30T18:53:11
+981,Webb Armstrong,Negative,2022-11-15T01:53:26
+982,Ewing Thomas,Positive,2022-11-27T03:42:13
+983,Katrina Perry,Not tested,1900-01-01T00:00:01
+984,Armstrong Russo,Negative,2022-11-10T14:34:27
+985,Stevens Carson,Positive,2022-11-22T15:00:13
+986,Selma Howard,Inconclusive,2022-11-02T13:14:47
+987,Carson Irwin,Negative,2022-10-30T12:21:20
+988,Candice Mcneil,Inconclusive,2022-11-13T09:14:27
+989,Bernadette Kirkland,Not tested,1900-01-01T00:00:01
+990,Baker Doyle,Positive,2022-11-15T19:30:46
+991,Coleman Ferrell,Inconclusive,2022-10-31T22:15:58
+992,Phelps Mcfarland,Negative,2022-11-09T08:56:30
+993,Bryan Sloan,Positive,2022-10-29T03:32:24
+994,Martha Frost,Negative,2022-11-10T13:49:48
+995,Abbott Vaughn,Inconclusive,2022-11-06T01:13:31
+996,Griffith Mcgee,Positive,2022-10-31T06:39:13
+997,Maryann Bates,Positive,2022-11-19T17:36:18
+998,Mcconnell Landry,Not tested,1900-01-01T00:00:01
+999,Kent Warren,Not tested,1900-01-01T00:00:01
+1000,Yates Hill,Not tested,1900-01-01T00:00:01
+1001,Beryl Morton,Not tested,1900-01-01T00:00:01
+1002,Young Glenn,Positive,2022-11-01T08:24:13
+1003,Farley Vega,Positive,2022-11-09T00:53:50
+1004,Hunter Burt,Negative,2022-11-26T07:19:37
+1005,Audra Grant,Positive,2022-11-10T11:39:46
+1006,Olson Bowman,Inconclusive,2022-11-27T00:39:49
+1007,Foster Hubbard,Inconclusive,2022-10-30T17:00:54
+1008,Marla Mack,Not tested,1900-01-01T00:00:01
+1009,Pauline Nichols,Not tested,1900-01-01T00:00:01
+1010,Combs Barry,Positive,2022-11-17T16:20:37
+1011,Juana Vincent,Not tested,1900-01-01T00:00:01
+1012,Hunt Lyons,Not tested,1900-01-01T00:00:01
+1013,Gayle Briggs,Inconclusive,2022-11-22T21:48:42
+1014,David Best,Positive,2022-11-06T07:08:45
+1015,Stevenson Reyes,Negative,2022-11-17T05:35:04
+1016,Stuart Grimes,Inconclusive,2022-11-08T22:39:52
+1017,Goodman Stephens,Inconclusive,2022-11-18T08:08:42
+1018,Carissa Fry,Negative,2022-11-11T00:28:30
+1019,Baldwin Franklin,Inconclusive,2022-11-22T00:21:39
+1020,Teri Pacheco,Not tested,1900-01-01T00:00:01
+1021,Fletcher Erickson,Not tested,1900-01-01T00:00:01
+1022,Love Mercer,Negative,2022-11-15T21:02:35
+1023,Greta Torres,Positive,2022-11-24T17:28:48
+1024,Huffman Sanford,Inconclusive,2022-11-21T11:35:25
+1025,Bertie Garrison,Not tested,1900-01-01T00:00:01
+1026,Ford Rogers,Negative,2022-11-16T06:05:38
+1027,Reyes Wilkinson,Not tested,1900-01-01T00:00:01
+1028,Williamson Pratt,Positive,2022-11-19T20:02:29
+1029,Lakisha Eaton,Not tested,1900-01-01T00:00:01
+1030,Welch Ochoa,Negative,2022-11-25T23:42:55
+1031,Leonard Butler,Inconclusive,2022-11-25T11:23:04
+1032,Shelley Kinney,Positive,2022-11-02T02:57:52
+1033,Oneill Lang,Negative,2022-11-17T16:28:14
+1034,Reynolds Wilkins,Negative,2022-10-29T05:42:42
+1035,Clarissa Burton,Positive,2022-11-27T11:37:24
+1036,Bender Cox,Positive,2022-11-12T01:02:31
+1037,Jeannine Horne,Negative,2022-11-11T20:19:23
+1038,Nelda Hahn,Positive,2022-11-11T12:30:08
+1039,Leona Branch,Inconclusive,2022-10-30T13:42:23
+1040,Concepcion Shaffer,Not tested,1900-01-01T00:00:01
+1041,Lesley Dillard,Negative,2022-11-11T21:21:01
+1042,Allie Alvarez,Not tested,1900-01-01T00:00:01
+1043,Price Reeves,Negative,2022-11-05T18:34:06
+1044,Weaver Dennis,Inconclusive,2022-11-21T17:00:46
+1045,Faith Cannon,Not tested,1900-01-01T00:00:01
+1046,Ballard Witt,Positive,2022-11-11T20:32:32
+1047,Lenore Justice,Inconclusive,2022-11-24T07:35:04
+1048,Cook Klein,Negative,2022-11-22T12:47:44
+1049,House Livingston,Negative,2022-11-10T09:45:07
+1050,Gray Price,Not tested,1900-01-01T00:00:01
+1051,Mcknight Dickson,Not tested,1900-01-01T00:00:01
+1052,Melisa Madden,Inconclusive,2022-11-08T07:27:43
+1053,Nelson Hurley,Not tested,1900-01-01T00:00:01
+1054,Hardy Vargas,Inconclusive,2022-10-30T16:18:48
+1055,Turner Fernandez,Not tested,1900-01-01T00:00:01
+1056,Marsh Walls,Negative,2022-11-01T17:00:24
+1057,Holloway Hull,Negative,2022-11-19T16:58:25
+1058,Mcclain Schneider,Not tested,1900-01-01T00:00:01
+1059,Ashlee Noel,Positive,2022-11-09T11:37:42
+1060,Dawson Prince,Negative,2022-11-24T23:02:57
+1061,Arline Wynn,Positive,2022-11-12T00:18:11
+1062,Deann Castaneda,Not tested,1900-01-01T00:00:01
+1063,Sheri Lewis,Not tested,1900-01-01T00:00:01
+1064,Anne Hicks,Positive,2022-11-22T07:34:51
+1065,Reva Leonard,Negative,2022-11-05T00:13:33
+1066,Shirley Rice,Positive,2022-11-20T08:48:08
+1067,Bernard Romero,Inconclusive,2022-11-27T08:26:24
+1068,Caldwell Long,Negative,2022-11-01T17:00:28
+1069,Clarke Delacruz,Negative,2022-11-05T16:13:01
+1070,Jennifer Wiley,Not tested,1900-01-01T00:00:01
+1071,Glenna Lara,Negative,2022-11-10T16:05:39
+1072,Delaney Callahan,Positive,2022-11-05T15:57:06
+1073,Clare Dorsey,Not tested,1900-01-01T00:00:01
+1074,Deena Stone,Negative,2022-11-06T23:03:56
+1075,Gonzalez Hampton,Inconclusive,2022-11-17T01:37:31
+1076,Hernandez York,Positive,2022-11-21T17:17:03
+1077,Bradley Galloway,Inconclusive,2022-11-13T06:57:40
+1078,Rodgers Odonnell,Inconclusive,2022-11-27T07:18:06
+1079,Tasha Weber,Inconclusive,2022-10-31T21:33:41
+1080,Mcdonald Shepherd,Negative,2022-11-20T20:51:23
+1081,Beatrice Singleton,Negative,2022-11-07T08:29:11
+1082,Blackburn Estrada,Positive,2022-11-18T11:59:54
+1083,Hickman Gallegos,Negative,2022-11-13T09:29:12
+1084,Meyers Phelps,Not tested,1900-01-01T00:00:01
+1085,Jarvis Cervantes,Negative,2022-11-27T04:42:41
+1086,Wallace Becker,Not tested,1900-01-01T00:00:01
+1087,Burris Ward,Positive,2022-11-07T09:40:07
+1088,Lori Roberts,Not tested,1900-01-01T00:00:01
+1089,Peters Stafford,Positive,2022-11-23T00:07:53
+1090,Harvey White,Not tested,1900-01-01T00:00:01
+1091,Monique Moses,Not tested,1900-01-01T00:00:01
+1092,Mai Mccormick,Not tested,1900-01-01T00:00:01
+1093,Bowen Boyer,Inconclusive,2022-11-23T12:57:12
+1094,Melanie Pope,Not tested,1900-01-01T00:00:01
+1095,Eugenia Griffith,Not tested,1900-01-01T00:00:01
+1096,Nash Perry,Negative,2022-11-14T08:45:44
+1097,Deanne Boone,Positive,2022-11-08T05:51:13
+1098,Logan Duke,Positive,2022-11-03T05:31:45
+1099,Olivia Francis,Positive,2022-11-12T23:33:07
+1100,Tracie Hopkins,Not tested,1900-01-01T00:00:01
+1101,Mathis Shannon,Inconclusive,2022-11-09T19:35:06
+1102,Deana Mcneil,Not tested,1900-01-01T00:00:01
+1103,Francis House,Negative,2022-11-19T07:03:51
+1104,Verna Nielsen,Positive,2022-11-10T08:48:55
+1105,Kaufman Mayo,Not tested,1900-01-01T00:00:01
+1106,Emily Kramer,Positive,2022-11-25T11:43:43
+1107,Nellie Yang,Inconclusive,2022-11-03T15:57:30
+1108,April Mosley,Inconclusive,2022-11-12T19:43:16
+1109,Pate Lott,Negative,2022-11-01T02:14:38
+1110,Pittman Copeland,Inconclusive,2022-11-02T07:23:56
+1111,Tracey Fulton,Positive,2022-11-10T14:26:21
+1112,Fulton Hodges,Not tested,1900-01-01T00:00:01
+1113,Chambers Conner,Not tested,1900-01-01T00:00:01
+1114,Haley Washington,Inconclusive,2022-10-28T21:56:21
+1115,Mcpherson Martin,Inconclusive,2022-11-17T23:57:16
+1116,Barrera Bell,Not tested,1900-01-01T00:00:01
+1117,Alana Fitzpatrick,Negative,2022-11-20T09:50:47
+1118,Ava Burt,Positive,2022-11-07T19:52:14
+1119,Gaines Montgomery,Negative,2022-11-18T09:21:08
+1120,Lambert Strickland,Negative,2022-11-05T01:19:53
+1121,Avis Macdonald,Positive,2022-11-01T00:14:28
+1122,Stella Harrison,Not tested,1900-01-01T00:00:01
+1123,Holman Donovan,Negative,2022-11-27T04:57:42
+1124,Mari Ewing,Inconclusive,2022-11-13T02:00:15
+1125,Doris Lester,Not tested,1900-01-01T00:00:01
+1126,Serrano Andrews,Inconclusive,2022-11-10T19:17:03
+1127,Roberta Dickerson,Positive,2022-11-09T05:34:07
+1128,Maribel Arnold,Positive,2022-11-04T15:00:14
+1129,Meyer Elliott,Negative,2022-10-31T23:01:02
+1130,Meadows Kaufman,Not tested,1900-01-01T00:00:01
+1131,Middleton Hodge,Negative,2022-11-23T17:15:11
+1132,Ophelia Sheppard,Positive,2022-11-19T02:30:33
+1133,Helga Gonzalez,Inconclusive,2022-11-19T18:44:33
+1134,Brady Raymond,Inconclusive,2022-11-20T16:15:38
+1135,Wooten Wilder,Inconclusive,2022-11-12T21:03:37
+1136,Joyce Crane,Positive,2022-11-08T15:46:58
+1137,Espinoza Bailey,Inconclusive,2022-11-05T17:31:38
+1138,Oneil Wilkinson,Not tested,1900-01-01T00:00:01
+1139,Natalia Shelton,Positive,2022-11-23T16:28:14
+1140,Benjamin Bradford,Inconclusive,2022-11-15T08:37:58
+1141,Nolan Eaton,Positive,2022-11-10T19:13:14
+1142,Doreen Christensen,Positive,2022-11-13T09:07:26
+1143,Marva Harper,Positive,2022-11-17T05:38:12
+1144,Bette Butler,Not tested,1900-01-01T00:00:01
+1145,Floyd Wilkerson,Inconclusive,2022-11-05T00:23:03
+1146,Stacy Lang,Not tested,1900-01-01T00:00:01
+1147,Debra Morales,Negative,2022-11-08T01:21:50
+1148,Milagros Bender,Positive,2022-11-15T17:39:21
+1149,Ronda Gomez,Positive,2022-11-05T19:37:39
+1150,Britney Gill,Negative,2022-11-02T00:03:55
+1151,Norris Hahn,Negative,2022-10-30T03:47:25
+1152,Mccarty Barron,Inconclusive,2022-11-07T22:55:39
+1153,Gilbert Richmond,Positive,2022-11-01T17:22:50
+1154,Charlene Dillard,Negative,2022-11-18T04:08:02
+1155,Contreras Burks,Negative,2022-10-30T16:44:52
+1156,Terrell Dennis,Inconclusive,2022-11-10T10:30:28
+1157,Lorna Gillespie,Not tested,1900-01-01T00:00:01
+1158,Christian Cotton,Inconclusive,2022-10-29T23:01:30
+1159,Nola Justice,Negative,2022-10-30T12:45:50
+1160,Susan Griffin,Inconclusive,2022-11-11T12:13:37
+1161,Carey Leon,Not tested,1900-01-01T00:00:01
+1162,Solis Jennings,Not tested,1900-01-01T00:00:01
+1163,Luz Hoffman,Negative,2022-11-25T01:40:37
+1164,Deanna Hammond,Positive,2022-10-30T15:48:50
+1165,Lorrie Hurley,Inconclusive,2022-11-19T21:49:40
+1166,Weeks Wright,Positive,2022-11-21T03:17:38
+1167,Ashley Mcknight,Not tested,1900-01-01T00:00:01
+1168,Grimes Fernandez,Positive,2022-11-23T01:35:35
+1169,Lynn Holmes,Positive,2022-11-06T20:33:14
+1170,Lourdes Mathews,Negative,2022-11-11T14:47:39
+1171,Calderon Hays,Not tested,1900-01-01T00:00:01
+1172,Imelda Marshall,Positive,2022-11-07T02:39:37
+1173,Louisa Wynn,Inconclusive,2022-11-16T18:19:17
+1174,Kathleen Castaneda,Negative,2022-11-20T12:50:01
+1175,Wilkerson Kidd,Negative,2022-11-02T22:49:10
+1176,Carole Kline,Negative,2022-11-23T09:00:35
+1177,Noreen Hicks,Negative,2022-11-03T06:31:17
+1178,Mendoza Adams,Inconclusive,2022-11-03T19:48:13
+1179,Hart Keller,Inconclusive,2022-11-15T17:10:28
+1180,Rosanna Carrillo,Not tested,1900-01-01T00:00:01
+1181,Estes Farley,Negative,2022-11-27T14:30:41
+1182,Aisha Merritt,Inconclusive,2022-11-11T21:18:53
+1183,Matthews Gordon,Negative,2022-11-03T21:47:42
+1184,Ramona Foreman,Not tested,1900-01-01T00:00:01
+1185,Cantu Conway,Negative,2022-11-20T07:47:41
+1186,Lesa Wiley,Positive,2022-11-20T22:37:10
+1187,Salas Vaughan,Negative,2022-11-14T15:41:41
+1188,Moreno Callahan,Negative,2022-11-20T09:14:37
+1189,Gale Dorsey,Negative,2022-11-10T14:21:22
+1190,Willie Fisher,Negative,2022-11-04T18:52:31
+1191,Cruz Stone,Negative,2022-11-24T10:02:26
+1192,Hicks Holt,Positive,2022-11-19T03:31:38
+1193,Lina Weaver,Not tested,1900-01-01T00:00:01
+1194,Farrell Barrera,Negative,2022-11-23T02:42:57
+1195,Mack Travis,Positive,2022-11-24T20:32:47
+1196,Pennington Rollins,Not tested,1900-01-01T00:00:01
+1197,Robin Howell,Inconclusive,2022-11-06T12:33:12
+1198,Lilly Velez,Negative,2022-10-31T18:35:50
+1199,Brooke Hunt,Not tested,1900-01-01T00:00:01
+1200,Bird Gallegos,Positive,2022-11-21T12:05:47
+1201,Owen Ray,Negative,2022-11-27T09:12:45
+1202,Myrna Cooper,Positive,2022-11-20T15:23:34
+1203,Dorsey Kirk,Inconclusive,2022-11-09T03:16:28
+1204,Mia Graves,Positive,2022-11-23T22:31:33
+1205,Curry Humphrey,Positive,2022-11-04T02:29:19
+1206,Natalie Mcpherson,Not tested,1900-01-01T00:00:01
+1207,Cannon Herring,Positive,2022-11-04T09:38:52
+1208,Kline Duffy,Negative,2022-11-02T23:56:02
+1209,Kim Maxwell,Negative,2022-11-05T19:13:58
+1210,Eloise West,Positive,2022-11-17T06:19:52
+1211,Marissa Hamilton,Inconclusive,2022-11-14T12:18:35
+1212,Soto Guy,Inconclusive,2022-11-12T09:37:33
+1213,Marilyn Ramos,Negative,2022-11-24T12:24:13
+1214,Beasley Mcfadden,Positive,2022-11-15T12:27:21
+1215,Barnett Shannon,Positive,2022-10-30T09:06:42
+1216,Leah Morrow,Not tested,1900-01-01T00:00:01
+1217,Glenn Ross,Positive,2022-11-18T07:38:46
+1218,Kirsten Doyle,Positive,2022-11-18T15:51:53
+1219,Rosetta Snider,Negative,2022-11-25T17:40:40
+1220,Abigail Mclaughlin,Negative,2022-11-14T19:52:52
+1221,Jeanne Dodson,Negative,2022-11-23T13:46:55
+1222,Gonzales Pennington,Not tested,1900-01-01T00:00:01
+1223,Abbott Mosley,Negative,2022-11-04T14:27:48
+1224,Maricela Knight,Negative,2022-11-08T00:55:36
+1225,Fowler Copeland,Inconclusive,2022-11-22T05:10:36
+1226,Moss Holden,Positive,2022-11-17T16:58:26
+1227,Gabriela Jenkins,Negative,2022-11-24T08:55:25
+1228,Katherine Wade,Negative,2022-10-29T23:24:30
+1229,Petty Taylor,Negative,2022-11-04T01:57:17
+1230,Audra Finley,Not tested,1900-01-01T00:00:01
+1231,Holder Moore,Not tested,1900-01-01T00:00:01
+1232,Sullivan Potter,Inconclusive,2022-11-03T22:00:24
+1233,Terrie Roman,Not tested,1900-01-01T00:00:01
+1234,Spence Anderson,Not tested,1900-01-01T00:00:01
+1235,Alicia Mccray,Not tested,1900-01-01T00:00:01
+1236,Serena Donovan,Not tested,1900-01-01T00:00:01
+1237,Jewell Ewing,Not tested,1900-01-01T00:00:01
+1238,Richards Schwartz,Negative,2022-11-26T14:27:42
+1239,Dona Lester,Inconclusive,2022-11-14T21:31:41
+1240,Suzanne Ortiz,Not tested,1900-01-01T00:00:01
+1241,Snider Hanson,Inconclusive,2022-11-20T13:19:49
+1242,Huber Mckinney,Not tested,1900-01-01T00:00:01
+1243,Nicholson Greene,Not tested,1900-01-01T00:00:01
+1244,Combs Rocha,Negative,2022-11-05T12:16:28
+1245,Sandra Mason,Positive,2022-11-02T00:24:29
+1246,Goff Cole,Inconclusive,2022-11-17T03:49:46
+1247,Jo Hodge,Negative,2022-11-19T00:10:08
+1248,Alyssa Tran,Inconclusive,2022-11-15T07:34:28
+1249,Lelia Fuller,Negative,2022-10-29T16:45:54
+1250,Bertha Guzman,Inconclusive,2022-11-19T07:11:36
+1251,Greer Lambert,Positive,2022-11-13T16:43:31
+1252,Tina Buck,Inconclusive,2022-11-11T17:47:47
+1253,Gail Stanley,Inconclusive,2022-11-22T17:05:52
+1254,Madge Short,Not tested,1900-01-01T00:00:01
+1255,Hope Phillips,Not tested,1900-01-01T00:00:01
+1256,Naomi Horton,Inconclusive,2022-11-20T17:07:17
+1257,Huffman Eaton,Inconclusive,2022-11-16T00:27:45
+1258,Ingram Sanders,Not tested,1900-01-01T00:00:01
+1259,Dee Kinney,Not tested,1900-01-01T00:00:01
+1260,Carpenter Le,Positive,2022-11-25T01:34:52
+1261,Jill Pollard,Not tested,1900-01-01T00:00:01
+1262,Frankie Velazquez,Inconclusive,2022-11-09T09:52:20
+1263,Barber Norton,Not tested,1900-01-01T00:00:01
+1264,Dickerson Gill,Inconclusive,2022-11-14T22:39:02
+1265,Stephens Edwards,Negative,2022-11-27T03:04:43
+1266,Viola Lynch,Not tested,1900-01-01T00:00:01
+1267,Rhea Fitzgerald,Positive,2022-10-29T04:17:35
+1268,Jenny Green,Positive,2022-11-05T15:34:06
+1269,Leach Peterson,Positive,2022-11-03T04:50:36
+1270,Finley Pittman,Not tested,1900-01-01T00:00:01
+1271,Florence Gay,Positive,2022-11-09T13:21:43
+1272,Corinne Bolton,Not tested,1900-01-01T00:00:01
+1273,Cobb Cotton,Negative,2022-10-31T20:06:21
+1274,Cristina Richardson,Positive,2022-11-19T22:58:17
+1275,Tonia Carter,Inconclusive,2022-11-09T14:04:18
+1276,Coleen Mueller,Inconclusive,2022-11-08T03:30:53
+1277,Underwood Hoffman,Positive,2022-11-24T10:34:40
+1278,Charmaine Silva,Positive,2022-11-21T23:01:48
+1279,Miller Reilly,Not tested,1900-01-01T00:00:01
+1280,House Hudson,Positive,2022-11-14T08:19:50
+1281,Daniel Vargas,Not tested,1900-01-01T00:00:01
+1282,Lara Key,Inconclusive,2022-11-16T19:09:03
+1283,Mcknight Moss,Not tested,1900-01-01T00:00:01
+1284,Arline Salas,Not tested,1900-01-01T00:00:01
+1285,Nelson Walls,Positive,2022-11-13T14:55:48
+1286,Deann Boyle,Not tested,1900-01-01T00:00:01
+1287,Brooks Schneider,Positive,2022-11-10T12:51:34
+1288,Priscilla Cherry,Positive,2022-11-11T09:14:02
+1289,Catherine Calhoun,Not tested,1900-01-01T00:00:01
+1290,Holloway Chen,Inconclusive,2022-11-21T20:12:33
+1291,Deidre James,Positive,2022-11-25T01:38:48
+1292,Shirley Hardin,Positive,2022-11-27T01:05:00
+1293,Nannie Bridges,Positive,2022-11-11T12:02:55
+1294,Ladonna Johnson,Not tested,1900-01-01T00:00:01
+1295,Madelyn Powers,Not tested,1900-01-01T00:00:01
+1296,Manuela Leonard,Positive,2022-11-15T13:43:02
+1297,Marina Russell,Not tested,1900-01-01T00:00:01
+1298,Beck Barber,Positive,2022-11-14T06:10:05
+1299,Stephanie Goff,Not tested,1900-01-01T00:00:01
+1300,Sabrina Simon,Not tested,1900-01-01T00:00:01
+1301,Christi Conway,Negative,2022-11-13T11:13:15
+1302,Alma Delacruz,Not tested,1900-01-01T00:00:01
+1303,Laurel Foley,Not tested,1900-01-01T00:00:01
+1304,Pearlie Marquez,Positive,2022-11-13T21:02:22
+1305,Kim Dominguez,Not tested,1900-01-01T00:00:01
+1306,Effie Underwood,Not tested,1900-01-01T00:00:01
+1307,Noelle Fleming,Inconclusive,2022-11-04T07:37:03
+1308,Watson Bonner,Positive,2022-11-11T10:06:28
+1309,Luna Burke,Not tested,1900-01-01T00:00:01
+1310,Loretta Beach,Not tested,1900-01-01T00:00:01
+1311,Herring Stevens,Not tested,1900-01-01T00:00:01
+1312,Lois Hendricks,Inconclusive,2022-11-12T13:24:44
+1313,Torres Beard,Not tested,1900-01-01T00:00:01
+1314,Claudia Rollins,Positive,2022-11-18T17:15:19
+1315,Small Shields,Positive,2022-11-01T15:22:57
+1316,Gonzalez Howell,Negative,2022-11-13T03:59:50
+1317,Lori Joseph,Negative,2022-11-17T17:32:26
+1318,Marcy Bishop,Positive,2022-11-07T21:12:53
+1319,Joann Rosales,Positive,2022-11-05T00:03:54
+1320,James Weeks,Inconclusive,2022-10-31T14:33:40
+1321,Ana Gamble,Inconclusive,2022-11-20T12:36:14
+1322,Kathrine Cooper,Positive,2022-11-11T19:13:14
+1323,Best Roberts,Inconclusive,2022-11-19T14:33:48
+1324,Campbell Britt,Negative,2022-11-21T03:12:58
+1325,Scott Kemp,Positive,2022-11-07T09:10:54
+1326,Lynch Woodard,Inconclusive,2022-11-03T18:05:17
+1327,Bonnie Mccormick,Inconclusive,2022-10-31T22:46:05
+1328,Short Thomas,Not tested,1900-01-01T00:00:01
+1329,Loraine Summers,Positive,2022-11-01T12:21:26
+1330,Tamra Houston,Not tested,1900-01-01T00:00:01
+1331,Vargas Sawyer,Positive,2022-11-03T06:12:44
+1332,Deana Beck,Negative,2022-10-30T01:40:16
+1333,Louella Mcmillan,Negative,2022-11-09T10:32:34
+1334,Hurley Howard,Positive,2022-11-18T22:44:19
+1335,Bobbie Stewart,Positive,2022-11-17T20:28:34
+1336,Logan Mcneil,Positive,2022-11-25T20:04:20
+1337,Justice Murray,Positive,2022-11-05T21:45:23
+1338,Santana Oneal,Not tested,1900-01-01T00:00:01
+1339,Carolyn Hunter,Inconclusive,2022-11-27T09:49:36
+1340,Moore Massey,Not tested,1900-01-01T00:00:01
+1341,Kelley Patel,Positive,2022-11-14T16:52:06
+1342,Roberts Riley,Not tested,1900-01-01T00:00:01
+1343,Ola Yang,Not tested,1900-01-01T00:00:01
+1344,Peck Robertson,Inconclusive,2022-11-14T04:35:01
+1345,Buck Bauer,Inconclusive,2022-11-11T15:47:27
+1346,Patel Daugherty,Positive,2022-11-14T21:44:47
+1347,Daugherty Atkinson,Negative,2022-11-14T23:33:24
+1348,Ryan Holden,Not tested,1900-01-01T00:00:01
+1349,Pittman Holder,Not tested,1900-01-01T00:00:01
+1350,Whitney Howe,Negative,2022-11-18T03:28:42
+1351,Francisca Ellison,Negative,2022-11-20T12:22:53
+1352,Rosalinda Martin,Inconclusive,2022-11-16T22:19:34
+1353,Cathleen Nolan,Not tested,1900-01-01T00:00:01
+1354,Tanisha Sellers,Positive,2022-11-18T04:26:59
+1355,Gaines Roman,Positive,2022-11-02T21:37:49
+1356,Marisa Strickland,Inconclusive,2022-11-12T18:10:32
+1357,Becky Harris,Negative,2022-11-24T13:22:20
+1358,Lou Case,Positive,2022-11-07T03:51:41
+1359,Nita Dixon,Positive,2022-11-24T16:45:30
+1360,Newman Lester,Positive,2022-10-29T06:11:23
+1361,Gabrielle Ortiz,Positive,2022-11-21T00:11:24
+1362,Shannon Hanson,Not tested,1900-01-01T00:00:01
+1363,Ginger Reyes,Positive,2022-11-11T00:59:52
+1364,Ferrell Bentley,Negative,2022-11-15T04:55:03
+1365,Valentine Moon,Not tested,1900-01-01T00:00:01
+1366,Kirby Kaufman,Not tested,1900-01-01T00:00:01
+1367,Blevins Scott,Negative,2022-11-12T04:47:17
+1368,Rhodes Deleon,Negative,2022-10-31T03:02:52
+1369,Wooten Higgins,Inconclusive,2022-11-11T11:21:54
+1370,Chang Wilder,Inconclusive,2022-11-25T12:07:07
+1371,Navarro Yates,Not tested,1900-01-01T00:00:01
+1372,Stacie Trujillo,Not tested,1900-01-01T00:00:01
+1373,Oliver Strong,Positive,2022-10-28T23:35:17
+1374,Patrice Lindsey,Negative,2022-11-07T21:05:01
+1375,Peggy Mcintosh,Negative,2022-10-30T20:17:03
+1376,Robbie Horton,Not tested,1900-01-01T00:00:01
+1377,Fuentes Nixon,Inconclusive,2022-11-22T16:52:52
+1378,Reilly Ochoa,Inconclusive,2022-11-19T03:20:13
+1379,Chrystal Stark,Not tested,1900-01-01T00:00:01
+1380,Griffin Cruz,Inconclusive,2022-11-22T19:29:03
+1381,Gilda Maynard,Positive,2022-11-11T06:49:35
+1382,Sharron Wilson,Inconclusive,2022-11-08T14:23:04
+1383,Dotson Rodriquez,Inconclusive,2022-11-02T00:28:35
+1384,Gentry Mccarty,Inconclusive,2022-11-15T13:25:35
+1385,Miriam Gomez,Negative,2022-11-21T14:48:56
+1386,Levine Gill,Not tested,1900-01-01T00:00:01
+1387,Lilian Edwards,Not tested,1900-01-01T00:00:01
+1388,Cooper Macias,Inconclusive,2022-11-21T04:48:05
+1389,Sheryl Branch,Not tested,1900-01-01T00:00:01
+1390,Morales Watkins,Positive,2022-11-26T21:18:08
+1391,Mccarty Drake,Positive,2022-11-03T23:25:05
+1392,Faye Middleton,Not tested,1900-01-01T00:00:01
+1393,Richard Mayer,Not tested,1900-01-01T00:00:01
+1394,Lupe Woods,Not tested,1900-01-01T00:00:01
+1395,Riggs Holcomb,Negative,2022-11-26T12:08:51
+1396,Pace Klein,Positive,2022-11-12T04:02:57
+1397,Lee Juarez,Negative,2022-11-14T12:01:28
+1398,Hendricks Mueller,Not tested,1900-01-01T00:00:01
+1399,Therese Craig,Not tested,1900-01-01T00:00:01
+1400,Kelli Baxter,Not tested,1900-01-01T00:00:01
+1401,Janie Reilly,Negative,2022-11-08T10:37:05
+1402,Townsend Diaz,Negative,2022-11-24T09:56:12
+1403,Roman Knapp,Not tested,1900-01-01T00:00:01
+1404,Blackwell Downs,Negative,2022-10-31T07:23:51
+1405,Grimes Robles,Inconclusive,2022-11-03T09:10:19
+1406,Jacquelyn Myers,Not tested,1900-01-01T00:00:01
+1407,Richardson Castro,Not tested,1900-01-01T00:00:01
+1408,Charlotte Moreno,Not tested,1900-01-01T00:00:01
+1409,Howard Velasquez,Inconclusive,2022-11-05T20:39:06
+1410,Jeannie Chambers,Not tested,1900-01-01T00:00:01
+1411,Patsy Warner,Not tested,1900-01-01T00:00:01
+1412,Bean Kidd,Negative,2022-11-02T02:39:26
+1413,Lizzie Johnson,Positive,2022-11-18T01:57:27
+1414,Aline Barnes,Not tested,1900-01-01T00:00:01
+1415,Ellen Rodgers,Negative,2022-11-26T23:23:17
+1416,Carrillo Burns,Inconclusive,2022-11-18T00:11:07
+1417,Hart Barber,Negative,2022-11-22T09:42:29
+1418,Ida Morse,Not tested,1900-01-01T00:00:01
+1419,Martinez Swanson,Inconclusive,2022-11-15T04:05:19
+1420,Estes Cooley,Not tested,1900-01-01T00:00:01
+1421,Slater Delacruz,Positive,2022-11-22T20:22:05
+1422,Little Foley,Positive,2022-11-10T07:33:04
+1423,Ingrid Callahan,Not tested,1900-01-01T00:00:01
+1424,Juarez Alston,Positive,2022-11-19T18:41:41
+1425,Kate Hancock,Inconclusive,2022-11-06T22:41:38
+1426,Consuelo Mcclure,Negative,2022-11-04T08:33:38
+1427,Flora Noble,Not tested,1900-01-01T00:00:01
+1428,James Barrera,Negative,2022-11-16T19:21:32
+1429,Robin Hendricks,Positive,2022-11-10T12:27:47
+1430,Higgins Travis,Negative,2022-11-23T04:28:39
+1431,Banks Bradley,Negative,2022-11-05T02:35:34
+1432,Mack Huffman,Negative,2022-11-17T10:41:39
+1433,Ebony Joseph,Negative,2022-11-07T05:27:25
+1434,Hilary Franco,Positive,2022-10-29T00:32:48
+1435,Boyle Wong,Positive,2022-11-21T04:57:40
+1436,Whitehead Gonzales,Not tested,1900-01-01T00:00:01
+1437,Washington Mcmahon,Negative,2022-10-30T22:39:59
+1438,Olga Fowler,Not tested,1900-01-01T00:00:01
+1439,Luisa Berg,Inconclusive,2022-11-24T08:08:11
+1440,Ericka Stafford,Inconclusive,2022-11-03T18:51:10
+1441,Kerry Humphrey,Inconclusive,2022-11-27T07:41:15
+1442,Marissa Barton,Positive,2022-11-09T11:31:27
+1443,Morton Avila,Inconclusive,2022-11-13T15:02:15
+1444,Alexandra Thomas,Inconclusive,2022-11-12T23:12:05
+1445,Jasmine Parsons,Inconclusive,2022-11-19T02:16:41
+1446,Randall Marsh,Positive,2022-11-19T23:35:35
+1447,Marci Salazar,Negative,2022-11-18T12:16:33
+1448,Leah Larsen,Positive,2022-11-09T18:06:05
+1449,Gamble Talley,Inconclusive,2022-11-07T00:02:25
+1450,Armstrong Morin,Not tested,1900-01-01T00:00:01
+1451,Stevens Soto,Positive,2022-11-25T12:45:59
+1452,Kirsten Shannon,Not tested,1900-01-01T00:00:01
+1453,Rochelle Bird,Negative,2022-10-29T08:12:13
+1454,Barnett House,Positive,2022-11-08T19:37:38
+1455,Gates Hunter,Inconclusive,2022-11-19T00:40:17
+1456,Baird Massey,Negative,2022-11-02T08:24:44
+1457,Alvarado Barlow,Not tested,1900-01-01T00:00:01
+1458,Stone Riley,Not tested,1900-01-01T00:00:01
+1459,Claudine Vaughn,Negative,2022-10-29T17:38:39
+1460,Marietta Lott,Not tested,1900-01-01T00:00:01
+1461,Beryl Evans,Negative,2022-11-02T09:54:19
+1462,Hopper Monroe,Inconclusive,2022-11-03T13:12:49
+1463,Reeves Knox,Inconclusive,2022-11-16T11:20:28
+1464,Black Burgess,Not tested,1900-01-01T00:00:01
+1465,Angelina Leblanc,Inconclusive,2022-11-17T12:48:12
+1466,Juliet Finley,Positive,2022-11-21T17:25:14
+1467,Diann Chaney,Negative,2022-11-15T09:10:20
+1468,Larsen Stephenson,Negative,2022-11-07T11:19:36
+1469,Terrie Campos,Not tested,1900-01-01T00:00:01
+1470,Juliette Grant,Positive,2022-11-21T10:47:34
+1471,Casey Banks,Negative,2022-11-13T10:15:31
+1472,Rene Ball,Inconclusive,2022-11-21T03:02:16
+1473,Neal Macdonald,Positive,2022-11-15T20:29:30
+1474,Harrington Harrison,Inconclusive,2022-11-21T17:39:24
+1475,Donovan Freeman,Inconclusive,2022-11-08T02:33:48
+1476,Amie Wallace,Positive,2022-11-17T05:26:18
+1477,Chapman Waller,Positive,2022-11-26T04:28:53
+1478,Blanchard Logan,Inconclusive,2022-11-13T23:13:57
+1479,Vincent Rush,Inconclusive,2022-11-07T14:10:08
+1480,Kerr Dickerson,Positive,2022-11-22T21:35:54
+1481,Greene Grimes,Inconclusive,2022-11-01T22:37:48
+1482,Murray Sweeney,Not tested,1900-01-01T00:00:01
+1483,Vanessa Hewitt,Positive,2022-11-23T17:39:56
+1484,Goff Pacheco,Positive,2022-11-17T23:29:04
+1485,Tia Tran,Not tested,1900-01-01T00:00:01
+1486,David Barrett,Not tested,1900-01-01T00:00:01
+1487,Polly Camacho,Positive,2022-11-21T16:37:23
+1488,Shelley Bowers,Positive,2022-10-29T12:18:25
+1489,Hope Vinson,Positive,2022-11-01T05:09:39
+1490,Naomi Short,Inconclusive,2022-11-22T07:13:46
+1491,Lester Pitts,Negative,2022-11-08T01:06:34
+1492,Baldwin Frank,Inconclusive,2022-11-04T19:50:38
+1493,Sargent Lindsay,Not tested,1900-01-01T00:00:01
+1494,Hatfield Oneill,Negative,2022-11-17T04:07:27
+1495,Mckay Watson,Not tested,1900-01-01T00:00:01
+1496,Wolf Duran,Positive,2022-10-30T15:13:00
+1497,Wright Kinney,Not tested,1900-01-01T00:00:01
+1498,Reyes Montoya,Not tested,1900-01-01T00:00:01
+1499,Schultz Bright,Positive,2022-11-11T01:40:05
+1500,Acosta Collier,Negative,2022-11-17T23:34:50
+1501,Joan Brennan,Positive,2022-11-19T22:33:58
+1502,Chase Hutchinson,Positive,2022-11-14T18:12:07
+1503,Paul Duncan,Positive,2022-11-13T22:08:30
+1504,Le Benton,Positive,2022-11-20T01:12:11
